@@ -159,7 +159,7 @@ def main(pos_pattern, min_freq, min_cvalue):
     # Discard chunks that don't meet minimum frequency
     chunks_freqs = min_freq_filter(chunks_freqs, min_freq)
     # Discard chunks with words in stoplist
-    stoplist = binom_stoplist(0.5)
+    stoplist = binom_stoplist(0.5)  # 0.5 da buenos resultados
     chunks_freqs = stoplist_filter(chunks_freqs, stoplist)
     # Order candidates first by number of words, then by frequency
     sorted_chunks = build_sorted_chunks(chunks_freqs)
@@ -180,17 +180,19 @@ if __name__ == '__main__':
 
     terms = load_terms()
     candidates = main(PATTERN, MIN_FREQ, MIN_CVAL)
-    print '[C]', len(candidates)
-    print '[T]', len(set(candidates.keys()).intersection(set(terms)))
+    sorted_candidates = [cand for cand, score in sorted(
+        candidates.items(), key=lambda x: x[1], reverse=True)]
+    print '[C]', len(sorted_candidates)
+    print '[T]', len(set(sorted_candidates).intersection(set(terms)))
     print '======'
-    precision, recall = evaluation.precision_recall(terms, candidates.keys())
+    precision, recall = evaluation.precision_recall(terms, sorted_candidates)
     print '[P]', round(precision, 3)
     print '[R]', round(recall, 3)
     print '======'
     precision_by_segment = evaluation.precision_by_segments(
-        terms, candidates.keys(), 4)
+        terms, sorted_candidates, 4)
     for i, seg_precision in enumerate(precision_by_segment):
         print '[%s] %s' % (i, round(seg_precision, 3))
     recall_list, precision_list = evaluation.precision_at_recall_values(
-        terms, candidates.keys())
+        terms, sorted_candidates)
     evaluation.plot_precision_at_recall_values(recall_list, precision_list)
