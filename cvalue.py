@@ -57,7 +57,17 @@ def binom_stoplist(cutoff):
     with open('data/binom.txt', 'r') as f:
         binom_ratios = f.read().decode('utf-8')
     binom_ratios = [l.split('\t') for l in binom_ratios.split('\n') if l]
-    stoplist = [word for word, score in binom_ratios if float(score) >= cutoff]
+    stoplist = \
+        [word for word, score in binom_ratios if float(score) >= cutoff]
+    return stoplist
+
+
+def log_likelihood_stoplist(cutoff):
+    with open('data/log_likelihood.txt', 'r') as f:
+        loglike_ratios = f.read().decode('utf-8')
+    loglike_ratios = [l.split('\t') for l in loglike_ratios.split('\n') if l]
+    stoplist = \
+        [word for word, score in loglike_ratios if float(score) <= cutoff]
     return stoplist
 
 
@@ -150,17 +160,22 @@ def load_terms():
 def main(pos_pattern, min_freq, min_cvalue):
     # STEP 1
     domain_sents = load_domain()
-    
+
     # STEP 2
     # Extract matching patterns
     chunks_freqs = chunk_sents(domain_sents, pos_pattern)
+
     # Remove POS tags from chunks
     chunks_freqs = remove_dict_postags(chunks_freqs)
+
     # Discard chunks that don't meet minimum frequency
     chunks_freqs = min_freq_filter(chunks_freqs, min_freq)
+
     # Discard chunks with words in stoplist
     stoplist = binom_stoplist(0.5)  # 0.5 da buenos resultados
+    #stoplist = log_likelihood_stoplist(400)
     chunks_freqs = stoplist_filter(chunks_freqs, stoplist)
+
     # Order candidates first by number of words, then by frequency
     sorted_chunks = build_sorted_chunks(chunks_freqs)
 
