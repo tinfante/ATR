@@ -1,0 +1,1769 @@
+﻿
+abrasión/NC
+abrasión/NC corneal/AQ
+abrasión/NC del/PDEL córnea/NC
+absceso/NC
+acanthamoeba/NC
+ácaro/NC
+accidente/NC
+accidente/NC cerebrovascular/AQ
+aceite/NC
+acetamida/NC
+acetato/NC del/PDEL glatirámero/NC
+acetiltriptamina/NC
+ácido/NC
+ácido/NC acetilsalicílico/AQ
+ácido/NC clorhídrico/AQ
+ácido/NC láctico/AQ
+ácido/NC sulfúrico/AQ
+acidosis/NC lácteo/AQ
+acromatopsia/NC
+activador/NC del/PDEL plasminógeno/NC tisular/AQ
+adn/NC
+adn/NC mitocóndrico/AQ
+adn/NC nuclear/AQ
+adolescencia/NC
+adolescente/NC
+adulto/NC
+aerosol/NC corticoesteroides/AQ nasal/AQ
+aerosol/NC nasal/AQ
+afección/NC
+agudeza/NC visual/AQ
+albinismo/NC
+albinismo/NC ocular/AQ
+albinismo/NC oculocutáneo/NC
+albinismo/NC parcial/AQ
+alergeno/NC
+alergia/NC
+alergia/NC estacional/AQ
+alergia/NC nasal/AQ
+alimentación/NC
+alimento/NC
+allegra/NC
+alteración/NC del/PDEL sueño/NC
+alteración/NC visual/AQ
+alucinación/NC
+amantadina/NC
+ambliopía/NC
+ambrosía/NC
+amd/NC
+amicacina/NC
+amígdala/NC
+aminoácido/NC triptofán/NC
+amitriptilina/NC
+amoníaco/NC
+amoníaco/NC acuoso/AQ
+ampolla/NC
+ampolla/NC febril/AQ
+anafilaxia/NC
+analgésico/NC
+análisis/NC
+análisis/NC cromosómico/AQ
+análisis/NC del/PDEL orina/NC
+análisis/NC enzimático/AQ
+anatomía/NC
+anemia/NC
+anemia/NC hemolítico/AQ
+anestesia/NC
+anestesia/NC local/AQ
+aneurisma/NC
+aneurisma/NC cerebral/AQ
+anfetamina/NC
+angioedema/NC
+angiofluoresceinografía/NC
+angiografía/NC
+angiografía/NC cerebral/AQ
+angiografía/NC fluorescente/AQ
+anisocoria/NC
+anomalía/NC
+anomalía/NC del/PDEL músculo/NC
+anomalía/NC del/PDEL ojo/NC
+anomalía/NC del/PDEL visión/NC
+anormalidad/NC cerebral/AQ
+anormalidad/NC neuroendocrinas/NC
+ansiedad/NC
+ansiolisis/NC
+antagonista/NC del/PDEL calcio/NC
+antagonista/NC del/PDEL prostanoides/NC
+antebrazo/NC
+antibiótico/NC
+antibiótico/NC oral/AQ
+antibiótico/NC tópico/AQ
+anticoagulante/NC
+anticonvulsivo/NC
+anticuerpo/NC
+antidepresivo/NC
+antídoto/NC
+antígeno/NC
+antígeno/NC hla/NC
+antihistamínico/NC
+antimonio/NC
+antinflamatorios/NC
+antioxidante/NC
+antiviral/NC
+aparato/NC ortopédico/AQ
+apatía/NC
+apendicitis/NC
+aplicador/NC
+aplicador/NC del/PDEL algodón/NC
+apnea/NC
+apoplejía/NC
+apt/NC
+arco/NC corneal/AQ
+arco/NC senil/AQ
+areds/NC
+arginina/NC
+argiria/NC
+argirosis/NC
+armd/NC
+arritmia/NC
+arritmia/NC del/PDEL corazón/NC
+arruga/NC
+arteria/NC
+arteria/NC carótido/AQ
+arteria/NC del/PDEL retina/NC
+arteria/NC retiniano/AQ
+arterioesclerosis/NC
+arteriopatía/NC coronario/AQ
+arteritis/NC craneal/AQ
+articulación/NC
+artritis/NC
+artritis/NC posinfeccioso/AQ
+artritis/NC reactivo/AQ
+artritis/NC reumatoide/AQ
+artritis/NC reumatoideo/AQ
+asa/NC
+asistencia/NC médico/AQ
+asistencia/NC respiratorio/AQ
+asma/NC
+aspirin/NC
+aspirina/NC
+astigmatismo/NC
+ataxia/NC
+atención/NC médico/AQ
+atenolol/NC
+atp/NC
+atresia/NC biliar/AQ
+atrofia/NC óptico/AQ
+atropina/NC
+atropine/NC
+atropisol/NC
+audición/NC
+audífono/NC
+audiometría/NC
+autismo/NC
+avastin/NC
+avonex/NC
+axila/NC
+azatioprina/NC
+azúcar/NC
+baclofen/NC
+bacteria/NC
+bacteria/NC chlamydia/AQ
+bacteria/NC streptococcus/NC
+banda/NC oligoclonal/AQ
+barbilla/NC
+bastón/NC
+bastoncillo/NC
+benzodiazepinas/NC
+betacaroteno/NC
+betapace/NC
+betimol/NC
+bilirrubina/NC
+biomicroscopio/NC
+biopsia/NC
+biopsia/NC del/PDEL ganglio/NC linfático/AQ
+biopsia/NC del/PDEL tejido/NC
+biopsia/NC muscular/AQ
+bismuto/NC
+bizquera/NC
+blefaritis/NC
+blefaroespasmo/NC
+blefaroplastia/NC
+blenorrea/NC del/PDEL inclusión/NC
+blocadren/NC
+bms/NC
+boca/NC
+botulismo/NC
+bradicardia/NC
+brazo/NC
+breviblic/NC
+brimonidina/NC
+brote/NC
+cabello/NC
+cabeza/NC
+cadmio/NC
+café/NC
+cafeína/NC
+calambre/NC
+cálculo/NC
+calentura/NC
+calmante/NC
+caloría/NC
+cámara/NC anterior/AQ
+campo/NC visual/AQ
+campylobacter/NC
+canal/NC colector/AQ
+canal/NC del/PDEL parto/NC
+cáncer/NC
+cáncer/NC del/PDEL ojo/NC
+cáncer/NC del/PDEL páncreas/NC
+cáncer/NC del/PDEL piel/NC
+cáncer/NC del/PDEL retina/NC
+cáncer/NC ocular/AQ
+cáncer/NC pulmonar/AQ
+capsulotomía/NC
+cara/NC
+carbonato/NC del/PDEL litio/NC
+carcinoma/NC renal/AQ celular/AQ
+cardiólogo/NC
+cardiopatía/NC
+carnitina/NC
+carotenemia/NC
+caroteno/NC
+carteolol/NC
+cartrol/NC
+caspa/NC
+cataract/NC
+catarata/NC
+catarata/NC congénito/AQ
+catarata/NC congénito/AQ hereditario/AQ
+catarata/NC hipermaduro/AQ
+catarata/NC infantil/AQ
+catarata/NC inmaduro/AQ
+catarata/NC maduro/AQ
+catarata/NC secundario/AQ
+catarata/NC traumático/AQ
+catarro/NC
+cavidad/NC óseo/AQ
+cefalea/NC
+cefalea/NC histamínico/AQ
+cefalea/NC migrañosa/AQ
+cefalea/NC tensional/AQ
+ceguera/NC
+ceguera/NC congénito/AQ
+ceguera/NC del/PDEL río/NC
+ceguera/NC funcional/AQ
+ceguera/NC nocturno/AQ congénito/AQ
+ceja/NC
+célula/NC
+célula/NC corneal/AQ
+célula/NC del/PDEL endotelio/NC
+célula/NC del/PDEL óvulo/NC
+célula/NC fotorreceptor/AQ
+célula/NC inmunitario/AQ
+célula/NC muscular/AQ
+célula/NC nervioso/AQ
+célula/NC nervioso/AQ del/PDEL piel/NC
+celulitis/NC orbital/AQ
+celulitis/NC orbitario/AQ
+celulitis/NC periorbitaria/AQ
+cerebro/NC
+cerumen/NC del/PDEL oído/NC
+cesárea/NC
+cetirizina/NC
+chalazión/NC
+chlamydia/NC
+chlamydia/NC trachomatis/NC
+cicatriz/NC
+cicatrización/NC
+cicatrización/NC corneal/AQ
+cicatrización/NC del/PDEL córnea/NC
+cicatrización/NC del/PDEL nervio/NC
+ciclofosfamida/NC
+ciclopentolato/NC
+ciclosporina/NC
+ciproheptadina/NC
+cirrosis/NC
+cirrosis/NC alcohólico/AQ
+cirrosis/NC biliar/AQ primario/AQ
+cirugía/NC
+cirugía/NC ambulatorio/AQ
+cirugía/NC cerebral/AQ
+cirugía/NC corneal/AQ
+cirugía/NC del/PDEL catarata/NC
+cirugía/NC del/PDEL córnea/NC
+cirugía/NC del/PDEL músculo/NC extraocular/AQ
+cirugía/NC del/PDEL músculo/NC ocular/AQ
+cirugía/NC del/PDEL ojo/NC
+cirugía/NC del/PDEL párpado/NC
+cirugía/NC del/PDEL rayo/NC láser/NC
+cirugía/NC del/PDEL retina/NC
+cirugía/NC dental/AQ
+cirugía/NC facial/AQ
+cirugía/NC láser/NC
+cirugía/NC lasik/NC
+cirugía/NC ocular/AQ
+cirugía/NC refractivo/AQ
+cirugía/NC refractivo/AQ del/PDEL córnea/NC
+cirujano/NC
+cirujano/NC oftalmológico/AQ
+cirujano/NC oftalmólogo/NC
+cistitis/NC intersticial/AQ
+citimegalovirus/NC
+citocromo/NC c/NC oxidasa/NC
+citomegalovirus/NC
+clamidia/NC
+clamidiosis/NC
+clarase/NC
+clínica/NC
+clínica/NC oftalmológico/AQ
+cloromelatonina/NC
+cloruro/NC del/PDEL benzalconio/NC
+cmv/NC
+coágulo/NC
+cocaína/NC
+codeína/NC
+codo/NC
+coenzima/NC
+colapso/NC
+colestasis/NC
+colestasis/NC intrahepática/AQ del/PDEL embarazo/NC
+colesterol/NC
+colirio/NC
+colirio/NC antibiótico/AQ
+colirio/NC del/PDEL prednisolona/NC
+colitis/NC
+colitis/NC ulcerativo/AQ
+colitis/NC ulceroso/AQ
+coloboma/NC
+coloboma/NC del/PDEL iris/NC
+columna/NC vertebral/AQ
+complejo/NC i/NC
+complejo/NC iv/AQ
+complicación/NC ocular/AQ
+concepción/NC
+conciencia/NC
+condición/NC médico/AQ
+condón/NC
+conducto/NC
+conducto/NC auditivo/AQ externo/AQ
+conducto/NC lagrimal/AQ
+conducto/NC uveal/AQ
+congestión/NC nasal/AQ
+conjunctivitis/NC
+conjuntiva/NC
+conjuntiva/NC bulbar/AQ
+conjuntivitis/NC
+conjuntivitis/NC agudo/AQ
+conjuntivitis/NC alérgico/AQ
+conjuntivitis/NC bacteriano/AQ
+conjuntivitis/NC del/PDEL neonato/NC
+conjuntivitis/NC del/PDEL origen/NC bacteriano/AQ
+conjuntivitis/NC del/PDEL origen/NC infeccioso/AQ
+conjuntivitis/NC del/PDEL origen/NC irritante/AQ
+conjuntivitis/NC del/PDEL origen/NC vírico/AQ
+conjuntivitis/NC del/PDEL tipo/NC alérgico/AQ
+conjuntivitis/NC del/PDEL tipo/NC granular/AQ
+conjuntivitis/NC granular/AQ
+conjuntivitis/NC neonatal/AQ
+conjuntivitis/NC papilar/AQ
+conjuntivitis/NC primaveral/AQ
+conjuntivitis/NC químico/AQ
+conjuntivitis/NC viral/AQ
+cono/NC
+consulta/NC
+consultorio/NC médico/AQ
+contagio/NC
+conteo/NC del/PDEL eosinófilo/NC
+conteo/NC del/PDEL esperma/NC
+conteo/NC del/PDEL glóbulo/NC blanco/AQ
+conteo/NC del/PDEL leucocito/NC
+conteo/NC del/PDEL plaqueta/NC
+conteo/NC sanguíneo/AQ completo/AQ
+contracción/NC
+contracción/NC del/PDEL célula/NC muscular/AQ
+contracepción/NC
+contraceptivos/NC oral/AQ
+contractura/NC
+convalecencia/NC
+convulsión/NC
+copaxone/NC
+corazón/NC
+corgard/NC
+coriorretinitis/NC
+córnea/NC
+coroide/NC
+coroides/NC
+coroiditis/NC
+corriente/NC sanguíneo/AQ
+corteza/NC visual/AQ
+corticoesteroides/NC tópico/AQ
+corticosteroide/NC
+corticosteroide/NC tópico/AQ
+cortisol/NC
+cortisona/NC
+cosopt/NC
+costra/NC
+coumadin/NC
+cráneo/NC
+creatina/NC
+crecimiento/NC
+crioplexia/NC
+criosonda/NC
+crioterapia/NC
+cristalino/NC
+cristalino/NC intraocular/AQ artificial/AQ
+cromoglicato/NC disódico/AQ
+csc/NC
+cuello/NC
+cuero/NC cabelludo/AQ
+cuerpo/NC
+cuerpo/NC ciliar/AQ
+cuerpo/NC vítreo/AQ
+cytoxan/NC
+dacriostenosis/NC
+daltonismo/NC
+daño/NC
+daño/NC nervioso/AQ
+daño/NC oxidativo/AQ
+daño/NC renal/AQ
+daño/NC tisular/AQ
+dedo/NC
+dedo/NC índice/NC
+dedo/NC pulgar/AQ
+defecto/NC
+defecto/NC congénito/AQ
+defecto/NC del/PDEL corazón/NC
+defecto/NC del/PDEL sistema/NC visual/AQ
+defecto/NC genético/AQ
+defecto/NC mitocóndricos/AQ
+deficiencia/NC
+deficiencia/NC agudo/AQ del/PDEL folato/NC
+deficiencia/NC del/PDEL melatonina/NC
+deficiencia/NC del/PDEL sistema/NC inmunológico/AQ
+deficiencia/NC renal/AQ
+deficiencia/NC visual/AQ
+deformidad/NC del/PDEL párpado/NC
+degeneración/NC del/PDEL retina/NC
+degeneración/NC macular/AQ
+degeneración/NC macular/AQ húmedo/AQ
+degeneración/NC macular/AQ intermedio/AQ
+degeneración/NC macular/AQ seco/AQ
+degeneración/NC macular/AQ senil/AQ
+degeneración/NC macular/AQ temprano/AQ
+degeneración/NC retiniano/AQ
+deglución/NC
+demencia/NC
+deposición/NC
+depresión/NC
+derrame/NC cerebral/AQ
+desbridamiento/NC cutáneo/AQ
+descongestionante/NC
+desequilibrio/NC muscular/AQ
+desfase/NC horario/AQ
+deshidratación/NC
+desnutrición/NC
+desprendimiento/NC del/PDEL retina/NC
+desprendimiento/NC retinal/AQ
+deterioro/NC del/PDEL visión/NC
+deterioro/NC visual/AQ
+diabetes/NC
+diagnóstico/NC
+diálisis/NC
+diálisis/NC renal/AQ
+diarrea/NC
+diazepam/NC
+dicloroacetato/NC
+diente/NC
+dieta/NC
+dificultad/NC visual/AQ
+digestión/NC
+dilantin/NC
+dilatación/NC del/PDEL pupila/NC
+discinesia/NC tardío/AQ
+disco/NC óptico/AQ
+disforia/NC
+disfunción/NC del/PDEL nervio/NC
+disfunción/NC del/PDEL nervio/NC craneal/AQ
+disfunción/NC eréctil/AQ
+distrofia/NC
+distrofia/NC corneal/AQ del/PDEL fuchs/NC
+distrofia/NC del/PDEL cono/NC
+distrofia/NC del/PDEL fuchs/NC
+distrofia/NC endotelial/AQ del/PDEL fuchs/NC
+dmae/NC
+dmard/NC
+dme/NC
+dme/NC húmedo/AQ
+dme/NC seco/AQ
+dms/NC
+doctor/NC
+dolor/NC
+dolor/NC abdominal/AQ
+dolor/NC articular/AQ
+dolor/NC del/PDEL cabeza/NC
+dolor/NC del/PDEL cabeza/NC
+dolor/NC del/PDEL cadera/NC
+dolor/NC del/PDEL cefalea/NC
+dolor/NC del/PDEL garganta/NC
+dolor/NC del/PDEL garganta/NC
+dolor/NC del/PDEL glándula/NC
+dolor/NC del/PDEL ojo/NC
+dolor/NC del/PDEL pene/NC
+dolor/NC del/PDEL rodilla/NC
+dolor/NC del/PDEL talón/NC
+dolor/NC del/PDEL tobillo/NC
+dolor/NC facial/AQ
+dolor/NC muscular/AQ
+dolor/NC ocular/AQ
+dolor/NC torácico/AQ
+donante/NC
+dorzolamida/NC
+dosis/NC
+doxiciclina/NC
+doxiciclina/NC oral/AQ
+drenaje/NC
+drenaje/NC del/PDEL lágrima/NC
+droga/NC
+droga/NC antiinflamatorio/AQ
+droga/NC corticoesteroides/AQ
+droga/NC hidroxicloroquina/NC
+drusa/NC
+eccema/NC
+eccema/NC atópico/AQ
+eco/NC
+ecocardiografía/NC
+ecoencefalograma/NC
+ecoencefalograma/NC del/PDEL cabeza/NC
+ecografía/NC
+ecografía/NC abdominal/AQ
+ecografía/NC bidimensional/AQ
+ecografía/NC del/PDEL ojo/NC
+ecografía/NC ocular/AQ
+ecografía/NC unidimensional/AQ
+econopred/NC
+econopred/NC plus/NC
+edema/NC
+edema/NC corneal/AQ
+edema/NC macular/AQ
+eeg/NC
+efecto/NC secundario/AQ
+ekg/NC
+electrocardiograma/NC
+electroencefalografía/NC
+electroencefalograma/NC
+electromiografía/NC
+electrón/NC
+electrooculografía/NC
+electroretinografía/NC
+electrorretinografía/NC
+em/NC
+embarazo/NC
+emergencia/NC
+emergencia/NC médico/AQ
+emergencia/NC oftalmológico/AQ
+emg/NC
+encefalitis/NC
+encefalitis/NC viral/AQ
+encéfalo/NC
+encefalomiopatía/NC mitocóndrica/AQ
+encefalomiopatías/NC
+encefalomiopatías/NC mitocóndricas/AQ
+endoscopia/NC
+endotelio/NC
+endotelio/NC
+endurecimiento/NC del/PDEL arteria/NC
+energía/NC ultrasónico/AQ
+enfermedad/NC
+enfermedad/NC aterosclerótica/AQ
+enfermedad/NC autoinmunitario/AQ
+enfermedad/NC cerebral/AQ
+enfermedad/NC conexo/AQ
+enfermedad/NC del/PDEL arteria/NC carótido/AQ
+enfermedad/NC del/PDEL arteria/NC coronario/AQ
+enfermedad/NC del/PDEL behcet/NC
+enfermedad/NC del/PDEL coats/NC
+enfermedad/NC del/PDEL corazón/NC
+enfermedad/NC del/PDEL crohn/NC
+enfermedad/NC del/PDEL itai/NC itai/NC
+enfermedad/NC del/PDEL kawasaki/NC
+enfermedad/NC del/PDEL lyme/NC
+enfermedad/NC del/PDEL ojo/NC
+enfermedad/NC del/PDEL parkinson/NC
+enfermedad/NC del/PDEL reflujo/NC gastroesofágico/AQ
+enfermedad/NC del/PDEL retina/NC
+enfermedad/NC del/PDEL tiroides/NC
+enfermedad/NC del/PDEL transmisión/NC sexual/AQ
+enfermedad/NC del/PDEL válvula/NC cardíaco/AQ
+enfermedad/NC desmielinizante/AQ
+enfermedad/NC diabético/AQ del/PDEL ojo/NC
+enfermedad/NC drepanocítico/AQ
+enfermedad/NC hereditario/AQ
+enfermedad/NC infeccioso/AQ
+enfermedad/NC intestinal/AQ
+enfermedad/NC mitocóndrica/AQ
+enfermedad/NC mitocóndricas/AQ
+enfermedad/NC neuromuscular/AQ
+enfermedad/NC ocular/AQ
+enfermedad/NC pulmonar/AQ
+enfermedad/NC retiniano/AQ
+enfermedad/NC sistémico/AQ
+enfermedad/NC tiroideo/AQ
+enfermedad/NC vascular/AQ cerebral/AQ
+enfermedad/NC viral/AQ
+enfermero/NC
+entropión/NC
+enucleación/NC
+enzima/NC
+eosinófilo/NC
+epiescleritis/NC
+epífora/NC
+epilepsia/NC
+epilepsia/NC mioclónica/AQ
+episodio/NC
+episodio/NC agudo/AQ
+epitelio/NC
+equimosis/NC
+erg/NC
+eritromicina/NC
+erosión/NC
+error/NC del/PDEL refracción/NC
+error/NC refractivo/AQ
+erupción/NC
+erupción/NC cutáneo/AQ
+escalofrío/NC
+escáner/NC
+escarificación/NC
+escarlatina/NC
+esclera/NC blanco/AQ
+esclerodermia/NC
+esclerosis/NC múltiple/AQ
+esclerosis/NC tuberoso/AQ
+esclerótica/NC
+escopolamina/NC
+esmolol/NC
+esófago/NC
+esotropía/NC
+espalda/NC
+espasmo/NC
+espasmo/NC muscular/AQ
+especialista/NC
+esperma/NC
+espondilitis/NC anquilosante/AQ
+esquistosomiasis/NC
+esquizofrenia/NC
+estenosis/NC biliar/AQ
+esteroide/NC
+esteroide/NC oral/AQ
+estimulación/NC calórico/AQ
+estiramiento/NC facial/AQ
+estómago/NC
+estornudo/NC
+estrabismo/NC
+estrabismo/NC congénito/AQ
+estrabismo/NC convergente/AQ
+estrabismo/NC divergente/AQ
+estrabismo/NC paralítico/AQ
+estradiol/NC
+estreñimiento/NC
+estreptococo/NC
+estrés/NC
+estructura/NC
+estructura/NC del/PDEL globo/NC ocular/AQ
+estructura/NC del/PDEL ojo/NC
+estructura/NC muscular/AQ
+estudio/NC cromosómico/AQ
+estudio/NC del/PDEL función/NC neurológico/AQ
+estudio/NC del/PDEL laboratorio/NC
+estudio/NC del/PDEL líquido/NC cefalorraquídeo/AQ
+estudio/NC genético/AQ
+estudio/NC imagenológico/AQ del/PDEL cabeza/NC
+estudio/NC imagenológicos/AQ
+estudio/NC metabólico/AQ
+estudio/NC sanguíneo/AQ
+etambutol/NC
+etanol/NC
+etilenglicol/NC
+ets/NC
+evaluación/NC médico/AQ
+evaluación/NC ocular/AQ
+examen/NC
+examen/NC clínico/AQ
+examen/NC del/PDEL agudeza/NC visual/AQ
+examen/NC del/PDEL anticuerpo/NC antinuclear/AQ
+examen/NC del/PDEL campo/NC visual/AQ
+examen/NC del/PDEL conducción/NC nervioso/AQ
+examen/NC del/PDEL diagnóstico/NC
+examen/NC del/PDEL dilatación/NC ocular/AQ
+examen/NC del/PDEL ecografía/NC del/PDEL ojo/NC
+examen/NC del/PDEL fluoresceína/NC
+examen/NC del/PDEL glaucoma/NC
+examen/NC del/PDEL integridad/NC muscular/AQ
+examen/NC del/PDEL iris/NC
+examen/NC del/PDEL laboratorio/NC
+examen/NC del/PDEL lágrima/NC
+examen/NC del/PDEL lagrimeo/NC
+examen/NC del/PDEL lámpara/NC
+examen/NC del/PDEL líquido/NC cefalorraquídeo/AQ
+examen/NC del/PDEL motilidad/NC ocular/AQ
+examen/NC del/PDEL movimiento/NC extraocular/AQ
+examen/NC del/PDEL músculo/NC
+examen/NC del/PDEL ojo/NC
+examen/NC del/PDEL refracción/NC
+examen/NC del/PDEL retina/NC
+examen/NC del/PDEL sangre/NC
+examen/NC del/PDEL tímpano/NC
+examen/NC del/PDEL visión/NC cercano/AQ
+examen/NC del/PDEL visión/NC cromático/AQ
+examen/NC del/PDEL visión/NC lejano/AQ
+examen/NC del/PDEL vista/NC
+examen/NC físico/AQ
+examen/NC neurológico/AQ
+examen/NC ocular/AQ
+examen/NC oftalmológico/AQ
+examen/NC retinal/AQ
+exoftalmos/NC
+exotropía/NC
+extirpación/NC
+extracción/NC
+extremidad/NC
+faco/NC
+facoemulsificación/NC
+factor/NC del/PDEL riesgo/NC
+factor/NC genético/AQ
+fallo/NC hepático/AQ
+farmaceuta/NC
+farmacia/NC
+fármaco/NC
+fasciculaciones/NC
+fatiga/NC
+fatiga/NC muscular/AQ
+fatiga/NC ocular/AQ
+fatiga/NC visual/AQ
+fenilefrina/NC
+fenobarbital/NC
+feto/NC
+fexofenadina/NC
+fibra/NC nervioso/AQ
+fibrilación/NC auricular/AQ
+fibromialgia/NC
+fibroplasia/NC retrolenticular/AQ
+fiebre/NC
+fiebre/NC del/PDEL conejo/NC
+fiebre/NC del/PDEL heno/NC
+fisiología/NC
+fisioterapia/NC
+fisura/NC
+flujo/NC sanguíneo/AQ
+fluoresceína/NC
+fnt/NC
+folículo/NC
+folículo/NC piloso/AQ
+fórmula/NC areds/AQ
+fórmula/NC leucocitario/AQ
+formulación/NC del/PDEL areds/NC
+fosa/NC nasal/AQ
+fosfato/NC
+fosfato/NC del/PDEL creatina/NC
+fosfocreatina/NC
+fotocoagulación/NC
+fotocoagulación/NC del/PDEL retina/NC
+fotocoagulación/NC focal/AQ
+fotocoagulación/NC panretiniana/AQ
+fotofobia/NC
+fotoreceptor/NC
+fóvea/NC
+fps/NC
+fractura/NC
+fractura/NC orbital/AQ
+frecuencia/NC cardíaco/AQ
+frecuencia/NC respiratorio/AQ
+fuerza/NC muscular/AQ
+función/NC inmunológico/AQ
+función/NC nervioso/AQ
+galactosemia/NC
+ganglio/NC
+ganglio/NC linfático/AQ
+garganta/NC
+gas/NC
+gas/NC amoníaco/NC
+gasa/NC
+gasa/NC estéril/AQ
+gel/NC oftálmico/AQ
+gen/NC
+gen/NC p/NC
+gen/NC recesivo/AQ
+gene/NC
+genética/NC
+genitales/NC
+gentamicina/NC
+germen/NC
+gingivitis/NC
+glándula/NC
+glándula/NC lacrimal/AQ
+glándula/NC lagrimal/AQ
+glándula/NC meibomianas/AQ
+glándula/NC pineal/AQ
+glándula/NC salival/AQ
+glándula/NC tiroides/NC
+glaucoma/NC
+glaucoma/NC agudo/AQ
+glaucoma/NC congénito/AQ
+glaucoma/NC del/PDEL ángulo/NC estrecho/AQ
+glaucoma/NC del/PDEL cierre/NC angular/AQ
+glaucoma/NC del/PDEL tensión/NC bajo/AQ
+glaucoma/NC del/PDEL tensión/NC normal/AQ
+glaucoma/NC neovascular/AQ
+glaucoma/NC pigmentario/AQ
+glaucoma/NC secundario/AQ
+glioma/NC
+glioma/NC del/PDEL nervio/NC óptico/AQ
+glioma/NC del/PDEL ojo/NC
+glioma/NC hipotalámico/AQ
+glioma/NC óptico/AQ
+globo/NC ocular/AQ
+glóbulo/NC blanco/AQ
+glóbulo/NC rojo/AQ
+glucosa/NC
+gonioscopia/NC
+gonorrea/NC
+grasa/NC
+grasa/NC corporal/AQ
+gripa/NC
+gripe/NC
+hemangioma/NC
+hematoma/NC
+hemograma/NC
+hemopatía/NC
+hemorragia/NC
+hemorragia/NC interno/AQ
+hemorragia/NC retiniano/AQ
+hemorragia/NC subconjuntival/AQ
+hemorragia/NC vítreo/AQ
+heparina/NC
+hepatitis/NC
+hepatitis/NC autoinmunitario/AQ
+hepatitis/NC b/NC
+hepatitis/NC c/NC
+hepatitis/NC d/NC
+hepatitis/NC viral/AQ
+hepatopatía/NC alcohólico/AQ
+herencia/NC
+herida/NC
+herida/NC ocular/AQ
+herpes/NC
+herpes/NC genital/AQ
+herpes/NC labial/AQ
+herpes/NC simple/AQ
+herpes/NC simplex/NC
+herpes/NC tipo/NC i/NC
+herpes/NC zóster/NC
+herpes/NC zóster/NC oftálmico/AQ
+heterocromía/NC
+heterocromía/NC familiar/AQ
+hez/NC
+hidralazina/NC
+hidromasaje/NC
+hidróxido/NC del/PDEL amonio/NC
+hidróxido/NC del/PDEL potasio/NC
+hidróxido/NC del/PDEL sodio/NC
+hifema/NC
+hígado/NC
+higiene/NC
+hinchazón/NC
+hinchazón/NC del/PDEL párpado/NC
+hinchazón/NC del/PDEL tejido/NC
+hinchazón/NC del/PDEL tejido/NC cerebral/AQ
+hiperactividad/NC
+hiperacusia/NC
+hipercarotenemia/NC
+hiperemia/NC conjuntival/AQ
+hiperglicemia/NC
+hiperlipidemia/NC
+hipermetropía/NC
+hiperopía/NC
+hiperpigmentación/NC
+hiperrespuesta/NC bronquial/AQ
+hipersensibilidad/NC
+hipertensión/NC
+hipertensión/NC arterial/AQ
+hipertensión/NC ocular/AQ
+hipertiroidismo/NC
+hipoacusia/NC
+hipoacusia/NC conductivo/AQ
+hipoacusia/NC sensorioneural/AQ
+hipoclorito/NC
+hipófisis/NC
+hipoglicemia/NC
+hipopigmentación/NC
+hipotálamo/NC
+hipotermia/NC
+hipotiroidismo/NC
+hisopo/NC
+histamina/NC
+histiocitosis/NC
+histoplasmosis/NC
+histoquímica/NC
+historia/NC clínico/AQ
+hombro/NC
+hongo/NC
+hormona/NC del/PDEL crecimiento/NC
+hormona/NC del/PDEL tiroides/NC
+hospital/NC
+hospitalización/NC
+hueso/NC
+humor/NC
+humor/NC vítreo/AQ
+hzo/NC
+ibuprofeno/NC
+ictericia/NC
+ictericia/NC fisiológico/AQ
+ictericia/NC hepatocelular/AQ isquémico/AQ
+ictericia/NC nuclear/AQ
+ictericia/NC patológico/AQ
+idoxiuridina/NC
+igiv/NC
+impétigo/NC
+implante/NC cristaliniano/AQ
+impulso/NC eléctrico/AQ
+impulso/NC nervioso/AQ
+incidencia/NC
+inclinación/NC palpebral/AQ
+incompatibilidad/NC sanguíneo/AQ
+incontinencia/NC
+indentación/NC escleral/AQ
+indentación/NC escleral/AQ
+inderal/NC
+indometacina/NC
+infancia/NC
+infarto/NC
+infección/NC
+infección/NC bacteriano/AQ
+infección/NC corneal/AQ
+infección/NC cutáneo/AQ
+infección/NC del/PDEL conjuntiva/NC
+infección/NC del/PDEL córnea/NC
+infección/NC del/PDEL garganta/NC
+infección/NC del/PDEL membrana/NC
+infección/NC del/PDEL ojo/NC
+infección/NC del/PDEL seno/NC nasal/AQ
+infección/NC gastrointestinal/AQ
+infección/NC herpético/AQ del/PDEL ojo/NC
+infección/NC ocular/AQ
+infección/NC pulmonar/AQ
+infección/NC sinusales/AQ
+infección/NC sistémico/AQ
+infección/NC urinario/AQ
+infección/NC viral/AQ
+inflamación/NC
+inflamación/NC articular/AQ
+inflamación/NC cerebral/AQ
+inflamación/NC del/PDEL conjuntiva/NC
+inflamación/NC del/PDEL ganglio/NC del/PDEL cuello/NC
+inflamación/NC del/PDEL garganta/NC
+inflamación/NC del/PDEL iris/NC
+inflamación/NC del/PDEL nervio/NC óptico/AQ
+inflamación/NC del/PDEL ojo/NC
+inflamación/NC del/PDEL párpado/NC
+inflamación/NC del/PDEL piel/NC
+inflamación/NC del/PDEL tejido/NC
+inflamación/NC del/PDEL tejido/NC orbital/NC
+inflamación/NC del/PDEL úvea/NC
+inflamación/NC del/PDEL vaina/NC del/PDEL mielina/NC
+inflamación/NC del/PDEL vía/NC aéreo/AQ
+inflamación/NC ocular/AQ
+ingestión/NC
+inhibidor/NC del/PDEL leucotrieno/NC
+inmunodepresión/NC
+inmunoglobulina/NC
+inmunoglobulina/NC intravenoso/AQ
+inmunoterapia/NC
+insomnio/NC
+insuficiencia/NC aórtico/AQ
+insuficiencia/NC cardiaco/AQ congestivo/AQ
+insuficiencia/NC multiorgánico/AQ
+insuficiencia/NC renal/AQ
+insulina/NC
+interferón/NC
+intervención/NC
+intervención/NC quirúrgico/AQ
+intestino/NC
+intoxicación/NC
+introflexión/NC
+inyección/NC
+inyección/NC conjuntival/AQ
+inyección/NC del/PDEL toxina/NC botulínica/AQ
+inyección/NC esclerótico/AQ
+iois/NC
+iridociclitis/NC
+iridotomía/NC
+iris/NC
+iritis/NC
+irm/NC
+irmn/NC
+irrigación/NC del/PDEL ojo/NC
+irritación/NC
+irritación/NC del/PDEL córnea/NC
+irritación/NC del/PDEL membrana/NC mucoso/AQ
+irritación/NC del/PDEL ojo/NC
+irritación/NC del/PDEL piel/NC
+irritación/NC del/PDEL úvea/NC
+irritación/NC ocular/AQ
+irritante/NC bacteriano/AQ
+isopto/NC
+isquemia/NC
+jaqueca/NC
+jarabe/NC
+jet/NC lag/NC
+kernicterus/NC
+laberintitis/NC
+labetalol/NC
+labio/NC
+labio/NC leporino/AQ
+laboratorio/NC
+laceración/NC
+lactancia/NC
+lactante/NC
+lactoferrina/NC
+lágrima/NC
+lámpara/NC del/PDEL hendidura/NC
+láser/NC
+láser/NC excímero/NC
+láser/NC ultravioleta/AQ
+lasik/NC
+latanoprost/NC
+latencia/NC del/PDEL sueño/NC
+latencia/NC rem/NC
+latonoprost/NC
+lavado/NC gástrico/AQ
+lavado/NC nasal/AQ
+lcr/NC
+lengua/NC
+lente/NC
+lente/NC artificial/AQ
+lente/NC intraocular/AQ
+lente/NC monocular/AQ
+lesión/NC
+lesión/NC cerebral/AQ del/PDEL región/NC pineal/AQ
+lesión/NC congénito/AQ
+lesión/NC corneal/AQ
+lesión/NC craneal/AQ
+lesión/NC cutáneo/AQ
+lesión/NC del/PDEL córnea/NC
+lesión/NC del/PDEL nervio/NC
+lesión/NC del/PDEL nervio/NC motor/NC ocular/AQ externo/AQ
+﻿lesión/NC del/PDEL ojo/NC
+lesión/NC del/PDEL piel/NC
+lesión/NC del/PDEL riñón/NC
+lesión/NC genital/AQ
+lesión/NC ocular/AQ
+lesión/NC ocular/AQ traumático/AQ
+lesión/NC orbital/AQ
+lesión/NC químico/AQ
+lesión/NC retinal/AQ
+lesión/NC traumático/AQ
+leucemia/NC
+leucocoria/NC
+leucoma/NC
+lia/NC
+lio/NC
+lioresal/NC
+líquido/NC
+líquido/NC cefalorraquídeo/AQ
+llaga/NC
+logopedia/NC
+lopressor/NC
+lorazepam/NC
+lubricante/NC
+lucentis/NC
+lucidez/NC mental/AQ
+lumbago/NC
+lupus/NC
+lupus/NC eritematoso/AQ
+lupus/NC eritematoso/AQ sistémico/AQ
+luz/NC ultravioleta/AQ
+luzindol/NC
+mácula/NC
+mácula/NC
+maculopatía/NC
+malaria/NC
+malformación/NC vascular/AQ
+mandíbula/NC
+mano/NC
+marcapasos/NC
+mareo/NC
+mastocito/NC
+maxilar/NC
+mda/NC
+mds/NC
+medicación/NC
+medicamento/NC
+medicamento/NC anticonvulsivo/NC
+medicamento/NC antiviral/NC
+medicamento/NC colinérgico/AQ
+medicamento/NC corticosteroide/NC
+medicamento/NC intravenoso/AQ
+medicamento/NC oral/AQ
+medicamento/NC tópico/AQ
+medicina/NC
+medicina/NC alternativo/AQ
+medición/NC ortóptico/AQ
+médico/NC
+médico/NC general/AQ
+medidor/NC del/PDEL glucosa/NC
+medio/NC del/PDEL contraste/NC
+médula/NC espinal/AQ
+médula/NC óseo/AQ
+mejilla/NC
+melanina/NC
+melanoma/NC
+melanoma/NC del/PDEL ojo/NC
+melanoma/NC intraocular/AQ
+melanoma/NC ocular/AQ
+melas/NC
+melatonina/NC
+melatotina/NC intranasal/AQ
+membrana/NC
+membrana/NC mucosa/NC
+membrana/NC mucoso/AQ
+meningitis/NC
+meningitis/NC bacteriano/AQ
+menopausia/NC
+menstruación/NC
+mentón/NC
+metabolismo/NC
+metal/NC
+metanol/NC
+metástasis/NC
+método/NC
+metoprolol/NC
+metotrexato/NC
+metoxindol/NC
+metoxitriptamina/NC
+micoplasma/NC
+microorganismo/NC
+microqueratomo/NC
+microscopio/NC
+midazolam/NC
+migraña/NC
+mineral/NC
+mioglobina/NC
+mioglobinuria/NC
+miopatía/NC
+miopatía/NC mitocóndria/NC
+miopatía/NC mitocóndrica/AQ
+miopatía/NC mitocóndricas/AQ
+miopía/NC
+mitocondria/NC mutante/AQ
+mitoxantrona/NC
+mngie/NC
+moco/NC
+molécula/NC
+mononeuritis/NC múltiple/AQ
+mononeuropatía/NC
+mononeuropatía/NC del/PDEL vii/NC par/NC craneal/AQ
+monovisión/NC
+moretón/NC
+movimiento/NC intestinal/AQ
+mri/NC
+mrs/NC
+mtadn/NC
+mucopolisacaridosis/NC
+mucosa/NC
+mucosidad/NC
+mupirocina/NC
+músculo/NC
+músculo/NC ciliar/AQ
+músculo/NC del/PDEL ojo/NC
+músculo/NC esquelético/AQ
+músculo/NC extraocular/AQ
+músculo/NC ocular/AQ
+mutación/NC
+mutación/NC del/PDEL mtadn/NC
+mutación/NC del/PDEL nadn/NC
+mutación/NC genético/AQ
+mutación/NC hereditario/AQ
+nacimiento/NC
+nadn/NC
+nadolol/NC
+naprosyn/NC
+naproxeno/NC
+nariz/NC
+narp/NC
+natalizumab/NC
+náusea/NC
+necrosis/NC
+nefropatía/NC
+neisseria/NC gonorrhoea/AQ
+neonato/NC
+neovascularización/NC
+nervio/NC
+nervio/NC auditivo/AQ
+nervio/NC craneal/AQ
+nervio/NC facial/AQ
+nervio/NC oculomotor/NC
+nervio/NC óptico/AQ
+nervio/NC periférico/AQ
+neumonía/NC
+neuralgia/NC migrañosa/AQ
+neuritis/NC óptico/AQ
+neuritis/NC óptico/AQ autoinmunitario/AQ
+neurodegeneración/NC
+neurofibromatosis/NC
+neurohormona/NC
+neurona/NC
+neurooftalmólogo/NC
+neuropatía/NC
+neuropatía/NC diabético/AQ
+neuropatía/NC facial/AQ
+neuropatía/NC periférico/AQ
+nistagmo/NC
+nistagmo/NC congénito/AQ
+nistagmo/NC horizontal/AQ
+nistagmo/NC vertical/AQ
+nitrato/NC del/PDEL plata/NC
+normodyne/NC
+novantrone/NC
+nutrición/NC
+nutriente/NC
+obesidad/NC
+obstrucción/NC
+obstrucción/NC del/PDEL arteria/NC carótido/AQ
+obstrucción/NC del/PDEL conducto/NC lagrimal/AQ
+obstrucción/NC del/PDEL vía/NC biliar/AQ
+obstrucción/NC intestinal/AQ
+oclusión/NC arterial/AQ retiniano/AQ
+oclusión/NC del/PDEL arteria/NC del/PDEL retina/NC
+oclusión/NC del/PDEL arteria/NC retiniano/AQ
+oclusión/NC del/PDEL arteria/NC retiniano/AQ central/AQ
+oclusión/NC del/PDEL vaso/NC retiniano/AQ
+oculista/NC
+odontólogo/NC
+oftalmalgia/NC
+oftalmia/NC neonatal/AQ
+oftalmólogo/NC
+oftalmólogo/NC pediátrico/AQ
+oftalmoplegia/NC externo/AQ
+oftalmoplegia/NC externo/AQ progresivo/AQ
+oftalmoscopia/NC
+oftalmoscopia/NC directo/AQ
+oftalmoscopia/NC indirecto/AQ
+oftalmoscopio/NC
+oftalmotonometría/NC del/PDEL aplanamiento/NC
+oído/NC
+oído/NC externo/AQ
+oído/NC interno/AQ
+ojo/NC
+olfato/NC
+oncocercosis/NC
+oncólogo/NC
+onda/NC del/PDEL radio/NC
+onda/NC sonoro/AQ
+onda/NC ultrasónico/AQ
+operación/NC
+operación/NC quirúrgico/AQ
+optómetra/NC
+optometrista/NC
+órbita/NC
+oreja/NC
+organismo/NC
+órgano/NC
+orina/NC
+orina/NC
+ortosis/NC
+orzuelo/NC
+osteoporosis/NC
+osteoporosis/NC posmenopáusico/AQ
+otitis/NC medio/AQ
+óvulo/NC
+oxígeno/NC
+oxitocina/NC
+paciente/NC
+palpación/NC
+páncreas/NC
+pancreatitis/NC
+pantorrilla/NC
+paperas/NC
+papila/NC gustativo/AQ
+paquimetría/NC
+par/NC craneal/AQ
+par/NC craneal/AQ del/PDEL tipo/NC diabético/AQ
+paracetamol/NC
+parálisis/NC
+parálisis/NC cerebral/AQ
+parálisis/NC del/PDEL bell/NC
+parálisis/NC del/PDEL nervio/NC facial/AQ
+parálisis/NC del/PDEL recto/NC lateral/AQ
+parálisis/NC del/PDEL vii/NC nervio/NC craneal/AQ
+parálisis/NC facial/AQ
+parálisis/NC facial/AQ periférico/AQ idiopático/AQ
+parálisis/NC ocular/AQ
+parálisis/NC oculomotora/AQ
+paranoia/NC
+parásito/NC
+parkinsonismo/NC
+párpado/NC
+párpado/NC inferior/AQ
+párpado/NC superior/AQ
+pars/NC planitis/NC
+parto/NC
+pastilla/NC
+patología/NC pulmonar/AQ
+patrón/NC mendeliano/AQ
+pecho/NC
+pediatra/NC
+período/NC del/PDEL remisión/NC
+persona/NC
+persona/NC
+pestaña/NC
+ph/NC
+pie/NC
+piel/NC
+pierna/NC
+píldora/NC
+pilocarpina/NC
+pilocarpina/NC oftálmico/AQ
+pinza/NC
+piruvato/NC
+placebo/NC
+planificación/NC familiar/AQ
+plaquenil/NC
+plomo/NC
+polarografía/NC
+polimiositis/NC
+pomada/NC
+predisposición/NC
+prednisolona/NC
+prednisolona/NC oftálmico/AQ
+prednisona/NC
+prednisona/NC oral/AQ
+presbiacusia/NC
+presbicia/NC
+presbiopía/NC
+prescripción/NC médico/AQ
+preservativo/NC
+presión/NC
+presión/NC abdominal/AQ
+presión/NC arterial/AQ
+presión/NC del/PDEL ojo/NC
+presión/NC intracraneal/AQ
+presión/NC intraocular/AQ
+presión/NC ocular/AQ
+presión/NC sanguíneo/AQ
+presión/NC sanguíneo/AQ diastólico/AQ
+presión/NC sinusal/AQ
+prk/NC
+problema/NC cerebral/AQ
+problema/NC del/PDEL audición/NC
+problema/NC del/PDEL diabetes/NC
+problema/NC del/PDEL mácula/NC
+problema/NC del/PDEL ojo/NC
+problema/NC del/PDEL retina/NC
+problema/NC del/PDEL visión/NC
+problema/NC dental/AQ
+problema/NC muscular/AQ
+problema/NC ocular/AQ
+problema/NC urinario/AQ
+problema/NC visual/AQ
+problema/NC visual/AQ
+procedimiento/NC del/PDEL burbuja/NC del/PDEL gas/NC
+procedimiento/NC del/PDEL vitrectomía/NC
+procedimiento/NC médico/AQ
+procedimiento/NC quirúrgico/AQ
+progesterona/NC
+prolactina/NC
+pronóstico/NC
+propranolol/NC
+proptosis/NC
+proteína/NC
+prótesis/NC dental/AQ
+prótesis/NC intraocular/AQ
+protrusión/NC
+protrusión/NC del/PDEL ojo/NC
+protuberancia/NC
+prueba/NC clínico/AQ
+prueba/NC cutáneo/AQ
+prueba/NC del/PDEL agudeza/NC visual/AQ
+prueba/NC del/PDEL campo/NC visual/AQ
+prueba/NC del/PDEL enzima/NC
+prueba/NC del/PDEL función/NC hepático/AQ
+prueba/NC del/PDEL laboratorio/NC
+prueba/NC del/PDEL ojo/NC seco/AQ
+prueba/NC del/PDEL radioalergoadsorción/NC
+prueba/NC del/PDEL reflejo/NC
+prueba/NC del/PDEL refracción/NC
+prueba/NC del/PDEL refracción/NC ocular/AQ
+prueba/NC del/PDEL refracción/NC visual/AQ
+prueba/NC del/PDEL ultrasonido/NC
+prueba/NC del/PDEL visión/NC lateral/AQ
+prueba/NC genético/AQ
+prueba/NC irm/NC
+prueba/NC ocular/AQ
+prueba/NC vestibular/AQ
+prurito/NC
+psoriasis/NC
+ptosis/NC
+pulmón/NC
+pulso/NC
+punción/NC lumbar/AQ
+punción/NC raquídeo/AQ
+pupila/NC
+pus/NC
+quemadura/NC químico/AQ
+quemadura/NC solar/AQ
+quemosis/NC
+queratitis/NC
+queratitis/NC bacterial/AQ
+queratitis/NC bacteriano/AQ
+queratitis/NC herpético/AQ
+queratitis/NC micótico/AQ
+queratitis/NC seco/AQ
+queratoconjuntivitis/NC herpético/AQ
+queratoconjuntivitis/NC seco/AQ
+queratocono/NC
+queratometría/NC
+queratomileusis/NC
+queratoplastia/NC
+queratoplastia/NC laminar/AQ profundo/AQ
+queratotomía/NC fotorrefractiva/AQ
+queratotomía/NC radial/AQ
+queratótomo/NC
+quiasma/NC óptico/AQ
+quimioterapia/NC
+quinidex/NC
+quinidina/NC
+quirófano/NC
+rabdomiólisis/NC
+rabdomiosarcoma/NC
+radiación/NC
+radiación/NC ultravioleta/AQ
+radiación/NC uv/AQ
+radiografía/NC
+radioterapia/NC
+ranibizumab/NC
+rast/NC
+rayo/NC láser/NC
+rayo/NC ultravioleta/AQ
+rayo/NC x/NC
+reacción/NC alérgico/AQ
+rebif/NC
+receptor/NC
+receta/NC
+receta/NC médico/AQ
+reflejo/NC
+reflujo/NC ácido/AQ
+refracción/NC
+rehabilitación/NC
+rehabilitación/NC visual/AQ
+relación/NC sexual/AQ
+remisión/NC
+resección/NC
+resfriado/NC
+resfrío/NC
+resonancia/NC magnético/AQ
+resonancia/NC magnético/AQ nuclear/AQ
+respiración/NC
+restasis/NC
+retina/NC
+retinitis/NC
+retinitis/NC pigmentario/AQ
+retinitis/NC pigmentoso/AQ
+retinoblastoma/NC
+retinoblastoma/NC hereditario/AQ
+retinoblastoma/NC trilateral/AQ
+retinopatía/NC
+retinopatía/NC del/PDEL prematuridad/NC
+retinopatía/NC diabético/AQ
+retinopatía/NC exudativo/AQ
+retinopatía/NC hipertensivo/AQ
+retinopatía/NC pigmentario/AQ
+retinopatía/NC proliferativo/AQ
+retinopexia/NC
+retinopexia/NC neumático/AQ
+retinosquisis/NC congénito/AQ
+rinitis/NC alérgico/AQ
+rinorrea/NC
+riñón/NC
+ritmo/NC circadiano/AQ
+ritmo/NC circadianos/AQ
+rm/NC del/PDEL cerebro/NC
+rop/NC
+rubéola/NC
+rubéola/NC congénito/AQ
+saliva/NC
+salivación/NC
+salmonella/NC
+salud/NC
+salud/NC ocupacional/AQ
+sangre/NC
+sarampión/NC
+sarampión/NC posinfeccioso/AQ
+sarcoidosis/NC
+sarcoma/NC del/PDEL tejido/NC blando/AQ
+secreción/NC
+secreción/NC nasal/AQ
+secreción/NC ocular/AQ
+secreción/NC uretral/AQ
+sedación/NC
+sedante/NC
+seno/NC
+seno/NC paranasal/AQ
+sensación/NC
+sensibilidad/NC
+sentido/NC del/PDEL gusto/NC
+sentido/NC del/PDEL olfato/NC
+sentido/NC del/PDEL tacto/NC
+serotonina/NC
+seudotumor/NC
+seudotumor/NC orbital/AQ
+sexo/NC
+shp/NC
+sibilancias/NC
+sida/NC
+sien/NC
+sífilis/NC
+signo/NC vital/AQ
+sincinesia/NC
+síndrome/NC
+síndrome/NC cardiaco/AQ
+síndrome/NC del/PDEL agotamiento/NC del/PDEL mtadn/NC
+síndrome/NC del/PDEL alcoholismo/NC fetal/AQ
+síndrome/NC del/PDEL apert/NC
+síndrome/NC del/PDEL behcet/NC
+síndrome/NC del/PDEL chediak/NC
+síndrome/NC del/PDEL condrodisplasia/NC
+síndrome/NC del/PDEL dificultad/NC respiratorio/AQ
+síndrome/NC del/PDEL displasia/NC ectodérmico/AQ
+síndrome/NC del/PDEL down/NC
+síndrome/NC del/PDEL down/NC
+síndrome/NC del/PDEL dubin/NC
+síndrome/NC del/PDEL gilbert/NC
+síndrome/NC del/PDEL guillain/NC
+síndrome/NC del/PDEL incontinencia/NC pigmentario/AQ
+síndrome/NC del/PDEL intestino/NC irritable/AQ
+síndrome/NC del/PDEL kearns/NC
+síndrome/NC del/PDEL klein/NC
+síndrome/NC del/PDEL leigh/NC
+síndrome/NC del/PDEL leigh/NC
+síndrome/NC del/PDEL lowe/NC
+síndrome/NC del/PDEL mesencéfalo/NC dorsal/AQ
+síndrome/NC del/PDEL ojo/NC seco/AQ
+síndrome/NC del/PDEL ojo/NC seco/AQ
+síndrome/NC del/PDEL ovario/NC poliquístico/AQ
+síndrome/NC del/PDEL parinaud/NC
+síndrome/NC del/PDEL parinaud/NC
+síndrome/NC del/PDEL pearson/NC
+síndrome/NC del/PDEL reiter/NC
+síndrome/NC del/PDEL rett/NC
+síndrome/NC del/PDEL rotor/NC
+síndrome/NC del/PDEL sjogren/NC
+síndrome/NC del/PDEL sjögren/NC
+síndrome/NC del/PDEL stevens/NC
+síndrome/NC del/PDEL waandenburg/NC
+síndrome/NC del/PDEL waardenberg/NC
+síndrome/NC del/PDEL waardenburg/NC
+síndrome/NC genético/AQ
+síndrome/NC inflamatorio/AQ
+sindromes/NC
+sintasa/NC del/PDEL atp/NC
+síntoma/NC
+síntoma/NC genital/AQ
+síntoma/NC ocular/AQ
+síntoma/NC urinario/AQ
+sintomatología/NC
+sinusitis/NC
+sistema/NC braille/NC
+sistema/NC digestivo/AQ
+sistema/NC inmunitario/AQ
+sistema/NC inmunitario/AQ
+sistema/NC lagrimal/AQ
+sistema/NC nervioso/AQ
+sistema/NC nervioso/AQ central/AQ
+sistema/NC nervioso/AQ central/AQ
+sistema/NC respiratorio/AQ
+sobredosis/NC
+sobrepeso/NC
+sodium/NC sulamyd/NC
+solución/NC oftálmico/AQ
+solución/NC salino/AQ
+somatostatín/NC
+somnolencia/NC
+sonambulismo/NC
+sonograma/NC
+sordera/NC
+sordo/NC
+sotalol/NC
+sucinilcolina/NC
+sueño/NC
+suero/NC sanguíneo/AQ
+sulfacetamida/NC
+sulfacetamida/NC oftálmico/AQ
+suplemento/NC dietético/AQ
+suplemento/NC nutricional/AQ
+supuración/NC
+sustancia/NC
+sustancia/NC químico/AQ
+sutura/NC
+tabaco/NC
+tabaquismo/NC
+tabla/NC optométrico/AQ
+tabla/NC visual/AQ
+tac/NC
+tacto/NC
+tejido/NC
+tejido/NC cicatricial/AQ
+tejido/NC cicatrizal/AQ
+tejido/NC conectivo/AQ
+tejido/NC corneal/AQ
+tejido/NC muscular/AQ
+telilla/NC lagrimal/AQ
+temblor/NC
+temblor/NC muscular/AQ
+temperatura/NC
+tendón/NC
+tendón/NC del/PDEL aquiles/NC
+tenesmo/NC vesical/AQ
+tensión/NC
+tensión/NC arterial/AQ
+tensión/NC ocular/AQ
+teofilina/NC
+terapia/NC
+terapia/NC antagonista/AQ del/PDEL vegf/NC
+terapia/NC antiangiogénesis/NC
+terapia/NC biológico/AQ
+terapia/NC del/PDEL habla/NC
+terapia/NC del/PDEL reemplazo/NC del/PDEL hormona/NC
+terapia/NC físico/AQ
+terapia/NC fotodinámico/AQ
+terapia/NC genético/AQ
+terapia/NC ocupacional/AQ
+termómetro/NC
+testículo/NC
+tetraciclina/NC
+timolol/NC
+timolol/NC oftálmico/AQ
+tímpano/NC
+tinitus/NC
+tinnitus/NC
+tizanidina/NC
+tomografía/NC
+tomografía/NC axial/AQ
+tono/NC muscular/AQ
+tonometría/NC
+tonómetro/NC
+toprol/NC
+torrente/NC sanguíneo/AQ
+tos/NC
+toxicidad/NC
+toxina/NC
+toxocara/NC canis/NC
+toxoplasmosis/NC
+trabeculoplastia/NC
+tracoma/NC
+tracto/NC digestivo/AQ
+transfusión/NC
+transmisión/NC autosómica/AQ dominante/AQ
+transpiración/NC
+transplante/NC del/PDEL córnea/NC
+transplante/NC del/PDEL pulmón/NC
+trasplante/NC
+trasplante/NC del/PDEL córnea/NC
+trasplante/NC del/PDEL órgano/NC
+trastorno/NC
+trastorno/NC autoinmunitario/AQ
+trastorno/NC bipolar/AQ
+trastorno/NC congénito/AQ
+trastorno/NC convulsivo/AQ
+trastorno/NC del/PDEL comportamiento/NC del/PDEL sueño/NC
+trastorno/NC del/PDEL formación/NC del/PDEL coágulo/NC
+trastorno/NC del/PDEL motilidad/NC intestinal/AQ
+trastorno/NC del/PDEL nervio/NC craneal/AQ
+trastorno/NC del/PDEL oído/NC interno/AQ
+trastorno/NC del/PDEL ojo/NC
+trastorno/NC del/PDEL sueño/NC
+trastorno/NC genético/AQ
+trastorno/NC hereditario/AQ
+trastorno/NC inflamatorio/AQ
+trastorno/NC metabólico/AQ
+trastorno/NC neurodegenerativo/AQ
+trastorno/NC neurológico/AQ agudo/AQ
+trastorno/NC psiquiátrico/AQ
+trastorno/NC sicóticos/AQ
+trastorno/NC vascular/AQ
+tratamiento/NC
+trauma/NC
+trauma/NC directo/AQ
+trauma/NC ocular/AQ
+traumatismo/NC
+traumatismo/NC cerebral/AQ
+traumatismo/NC craneal/AQ
+traumatismo/NC ocular/AQ
+travoprost/NC
+travoprost/NC oftálmico/AQ
+trifluridina/NC
+triglicérido/NC
+trisomía/NC
+trombopoyesis/NC
+trombosis/NC sinusal/AQ
+tropicamida/NC
+tuberculosis/NC
+tuberculosis/NC micobacteriana/AQ
+tularemia/NC
+tumor/NC
+tumor/NC cerebral/AQ
+tumor/NC ocular/AQ
+tumor/NC pineal/AQ
+tylenol/NC
+tysabri/NC
+úlcera/NC
+úlcera/NC bucal/AQ
+úlcera/NC corneal/AQ
+úlcera/NC corneana/NC
+ulceración/NC
+ultrasonido/NC
+ungüento/NC
+ungüento/NC oftálmico/AQ
+uretra/NC
+urobilinógeno/NC
+uveítis/NC
+uveítis/NC agudo/AQ
+uveítis/NC anterior/AQ
+uveítis/NC posterior/AQ
+vacuna/NC
+vacuna/NC antialérgico/AQ
+vacuna/NC antitetánico/AQ
+vagina/NC
+vaina/NC del/PDEL mielina/NC
+valium/NC
+varicela/NC
+vas/NC sanguíneo/AQ
+vaso/NC
+vaso/NC sanguíneo/AQ
+vejiga/NC
+vello/NC
+vendaje/NC
+veneno/NC
+verimed/NC
+veruronio/NC
+vesícula/NC
+vesícula/NC biliar/AQ
+vestíbulo/NC
+vía/NC intravenoso/AQ
+vía/NC oral/AQ
+vía/NC respiratorio/AQ
+vía/NC urinario/AQ
+vibración/NC
+vibración/NC sonoro/AQ
+vida/NC
+vidarabina/NC
+vih/NC
+virus/NC
+virus/NC del/PDEL inmunodeficiencia/NC humano/AQ
+virus/NC herpes/NC simplex/NC
+vitamina/NC
+vitamina/NC antioxidante/AQ
+vitamina/NC d/NC
+vitrectomía/NC
+vómito/NC
+voz/NC
+warfarina/NC
+xeroftalmia/NC
+xerostomía/NC
+yag/NC láser/NC
+yersinia/NC
+yodo/NC
+zanaflex/NC
+zinc/NC
+zolpidem/NC
+zyrtec/NC
