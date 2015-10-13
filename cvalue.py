@@ -236,7 +236,7 @@ def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
     chunks_freqs = min_freq_filter(chunks_freqs, min_freq)
 
     # Discard chunks with words in stoplist
-    stoplist = binom_stoplist(0.5)  # 0.5 da buenos resultados
+    stoplist = binom_stoplist(0.1)  # 0.5 da buenos resultados
     #stoplist = log_likelihood_stoplist(400)
     chunks_freqs = stoplist_filter(chunks_freqs, stoplist)
 
@@ -255,7 +255,7 @@ if __name__ == '__main__':
         TC: {<NC>+<AQ>*(<PDEL><DA>?<NC>+<AQ>*)*}
         """
     MIN_FREQ = 1
-    MIN_CVAL = -1000000
+    MIN_CVAL = -100  # lower cval -13
 
     terms = load_terms()
     domain_corpus = load_domain()
