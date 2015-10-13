@@ -149,6 +149,70 @@ def calc_cvalue(sorted_phrase_dict, min_cvalue):
     return cvalue_dict
 
 
+def make_contextword_weight_dict(real_term_list, tagged_sents, valid_tags,
+                                 context_size):
+    context_word_dict = defaultdict(int)
+    num_terms_seen = 0
+    for term in real_term_list:
+        for sent in tagged_sents:
+            sent_str = ' '.join(w[0] for w in sent)
+            if term in sent_str:
+                term_split = term.split()
+                for wt_idx in range(len(sent) - len(term_split)):
+                    # wt_idx = wordtag_index.
+                    word_size_window = [
+                        w[0] for w in
+                        sent[wt_idx:wt_idx+len(term_split)]]
+                    if term_split == word_size_window:
+                        left_context = sent[:wt_idx][-context_size:]
+                        right_context = \
+                            sent[wt_idx+len(term_split):][:context_size]
+                        context = left_context + right_context
+                        valid_words = [w[0] for w in context if
+                                       w[1] in valid_tags]
+                        for word in valid_words:
+                            context_word_dict[word] += 1
+                        num_terms_seen += 1
+                        break  #  1 term match per sentence
+    context_word_dict = dict(  # Transform keys: freqs -> weights
+        (k, v/num_terms_seen) for k, v in context_word_dict.items())
+    return context_word_dict
+
+
+def calc_ncvalue(cvalue_results, tagged_sents, contextword_weight_dict,
+                 valid_tags, context_size):
+    ncvalue_dict = {}
+    for candidate, cand_cvalue in cvalue_results.items():
+        ccw_freq_dict = defaultdict(int)  # ccw = candidate_context_words
+        for sent in tagged_sents:
+            sent_str = ' '.join(w[0] for w in sent)
+            if candidate in sent_str:
+                candidate_split = candidate.split()
+                for wt_idx in range(len(sent) - len(candidate_split)):
+                    word_size_window = [
+                        w[0] for w in
+                        sent[wt_idx:wt_idx+len(candidate_split)]]
+                    if candidate_split == word_size_window:
+                        left_context = sent[:wt_idx][-context_size:]
+                        right_context = \
+                            sent[wt_idx+len(candidate_split):][:context_size]
+                        # TODO: see same bit in previous function.
+                        context = left_context + right_context
+                        valid_words = [w[0] for w in context if
+                                       w[1].lower() in valid_tags]
+                        for word in valid_words:
+                            ccw_freq_dict[word] += 1
+                        break  # 1 candidate match per sentence
+        context_factors = []
+        for word in ccw_freq_dict.keys():
+            if word in contextword_weight_dict.keys():
+                context_factors.append(
+                    ccw_freq_dict[word] * contextword_weight_dict[word])
+        ncvalue = (0.8 * cand_cvalue) + (0.2 * sum(context_factors))
+        ncvalue_dict[candidate] = ncvalue
+    return ncvalue_dict
+
+
 def load_terms():
     with open('corpora/small_domain_terms.txt', 'r') as f:
         ref_raw = f.read().decode('utf-8')
@@ -157,9 +221,9 @@ def load_terms():
     return terms
 
 
-def main(pos_pattern, min_freq, min_cvalue):
+def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
     # STEP 1
-    domain_sents = load_domain()
+    domain_sents = domain_corpus
 
     # STEP 2
     # Extract matching patterns
@@ -194,20 +258,42 @@ if __name__ == '__main__':
     MIN_CVAL = -1000000
 
     terms = load_terms()
-    candidates = main(PATTERN, MIN_FREQ, MIN_CVAL)
+    domain_corpus = load_domain()
+    candidates = main(domain_corpus, PATTERN, MIN_FREQ, MIN_CVAL)
     sorted_candidates = [cand for cand, score in sorted(
         candidates.items(), key=lambda x: x[1], reverse=True)]
+    print '\nC-VALUE'
+    print '========'
     print '[C]', len(sorted_candidates)
     print '[T]', len(set(sorted_candidates).intersection(set(terms)))
-    print '======'
+    print '========'
     precision, recall = evaluation.precision_recall(terms, sorted_candidates)
     print '[P]', round(precision, 3)
     print '[R]', round(recall, 3)
-    print '======'
+    print '========'
     precision_by_segment = evaluation.precision_by_segments(
         terms, sorted_candidates, 4)
     for i, seg_precision in enumerate(precision_by_segment):
         print '[%s] %s' % (i, round(seg_precision, 3))
     recall_list, precision_list = evaluation.precision_at_recall_values(
         terms, sorted_candidates)
+    evaluation.plot_precision_at_recall_values(recall_list, precision_list)
+
+    cvalue_top = [c for c in sorted_candidates[:int(len(candidates) * 0.2)]]
+    context_words = make_contextword_weight_dict(
+        cvalue_top, domain_corpus, ['NC', 'AQ', 'VM'], 5)
+    ncvalue_output = calc_ncvalue(
+        candidates, domain_corpus, context_words, ['NC', 'AQ', 'VM'], 5)
+    sorted_ncvalue = [cand for cand, score in sorted(
+        ncvalue_output.items(), key=lambda x: x[1], reverse=True)]
+    precision, recall = \
+        evaluation.precision_recall(terms, sorted_ncvalue)
+    print '\n\nNC-VALUE'
+    print '========'
+    precision_by_segment = evaluation.precision_by_segments(
+        terms, sorted_ncvalue, 4)
+    for i, seg_precision in enumerate(precision_by_segment):
+        print '[%s] %s' % (i, round(seg_precision, 3))
+    recall_list, precision_list = evaluation.precision_at_recall_values(
+        terms, sorted_ncvalue)
     evaluation.plot_precision_at_recall_values(recall_list, precision_list)

@@ -369,8 +369,8 @@ def main(train_terms, test_corpus):
     candidate_scores = [(score, remove_str_postags(cand)) for score, cand
                         in candidate_scores]
 
-    stoplist = binom_stoplist(0.5)
-    #stoplist = log_likelihood_stoplist(2)
+    stoplist = binom_stoplist(0.5)  # 0.5 buen valor
+    #stoplist = log_likelihood_stoplist(5)
     print len(candidate_scores)
     candidate_scores = stoplist_filter(candidate_scores, stoplist)
     print len(candidate_scores)
