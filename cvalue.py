@@ -255,7 +255,7 @@ if __name__ == '__main__':
         TC: {<NC>+<AQ>*(<PDEL><DA>?<NC>+<AQ>*)*}
         """
     MIN_FREQ = 1
-    MIN_CVAL = -100  # lowest cval -13
+    MIN_CVAL = -14  # lowest cval -13
 
     terms = load_terms()
     domain_corpus = load_domain()
