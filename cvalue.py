@@ -236,7 +236,7 @@ def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
     chunks_freqs = min_freq_filter(chunks_freqs, min_freq)
 
     # Discard chunks with words in stoplist
-    stoplist = binom_stoplist(55)  # 0.5 good; 55 empty stoplist; min?
+    stoplist = binom_stoplist(0.2)  # 0.5 good; 55 empty stoplist; min?
     #stoplist = log_likelihood_stoplist(400)
     chunks_freqs = stoplist_filter(chunks_freqs, stoplist)
 
