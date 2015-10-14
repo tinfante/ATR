@@ -217,7 +217,7 @@ def load_terms():
     with open('corpora/small_domain_terms.txt', 'r') as f:
         ref_raw = f.read().decode('utf-8')
     terms = ref_raw.split('\n')[1:]
-    terms = [remove_str_postags(i.strip()) for i in terms]
+    terms = [remove_str_postags(i.strip()) for i in terms if i]
     return terms
 
 
@@ -236,7 +236,7 @@ def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
     chunks_freqs = min_freq_filter(chunks_freqs, min_freq)
 
     # Discard chunks with words in stoplist
-    stoplist = binom_stoplist(0.1)  # 0.5 da buenos resultados
+    stoplist = binom_stoplist(55)  # 0.5 good; 55 empty stoplist; min?
     #stoplist = log_likelihood_stoplist(400)
     chunks_freqs = stoplist_filter(chunks_freqs, stoplist)
 
@@ -255,7 +255,7 @@ if __name__ == '__main__':
         TC: {<NC>+<AQ>*(<PDEL><DA>?<NC>+<AQ>*)*}
         """
     MIN_FREQ = 1
-    MIN_CVAL = -100  # lower cval -13
+    MIN_CVAL = -100  # lowest cval -13
 
     terms = load_terms()
     domain_corpus = load_domain()
@@ -275,6 +275,7 @@ if __name__ == '__main__':
         terms, sorted_candidates, 4)
     for i, seg_precision in enumerate(precision_by_segment):
         print '[%s] %s' % (i, round(seg_precision, 3))
+
     recall_list, precision_list = evaluation.precision_at_recall_values(
         terms, sorted_candidates)
     evaluation.plot_precision_at_recall_values(recall_list, precision_list)

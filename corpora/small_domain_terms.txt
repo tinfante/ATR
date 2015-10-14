@@ -493,10 +493,8 @@ dolor/NC
 dolor/NC abdominal/AQ
 dolor/NC articular/AQ
 dolor/NC del/PDEL cabeza/NC
-dolor/NC del/PDEL cabeza/NC
 dolor/NC del/PDEL cadera/NC
 dolor/NC del/PDEL cefalea/NC
-dolor/NC del/PDEL garganta/NC
 dolor/NC del/PDEL garganta/NC
 dolor/NC del/PDEL glándula/NC
 dolor/NC del/PDEL ojo/NC
@@ -561,7 +559,6 @@ encefalomiopatía/NC mitocóndrica/AQ
 encefalomiopatías/NC
 encefalomiopatías/NC mitocóndricas/AQ
 endoscopia/NC
-endotelio/NC
 endotelio/NC
 endurecimiento/NC del/PDEL arteria/NC
 energía/NC ultrasónico/AQ
@@ -923,7 +920,6 @@ inclinación/NC palpebral/AQ
 incompatibilidad/NC sanguíneo/AQ
 incontinencia/NC
 indentación/NC escleral/AQ
-indentación/NC escleral/AQ
 inderal/NC
 indometacina/NC
 infancia/NC
@@ -1074,7 +1070,6 @@ lupus/NC eritematoso/AQ
 lupus/NC eritematoso/AQ sistémico/AQ
 luz/NC ultravioleta/AQ
 luzindol/NC
-mácula/NC
 mácula/NC
 maculopatía/NC
 malaria/NC
@@ -1260,7 +1255,6 @@ oreja/NC
 organismo/NC
 órgano/NC
 orina/NC
-orina/NC
 ortosis/NC
 orzuelo/NC
 osteoporosis/NC
@@ -1304,7 +1298,6 @@ patrón/NC mendeliano/AQ
 pecho/NC
 pediatra/NC
 período/NC del/PDEL remisión/NC
-persona/NC
 persona/NC
 pestaña/NC
 ph/NC
@@ -1355,7 +1348,6 @@ problema/NC dental/AQ
 problema/NC muscular/AQ
 problema/NC ocular/AQ
 problema/NC urinario/AQ
-problema/NC visual/AQ
 problema/NC visual/AQ
 procedimiento/NC del/PDEL burbuja/NC del/PDEL gas/NC
 procedimiento/NC del/PDEL vitrectomía/NC
@@ -1526,7 +1518,6 @@ síndrome/NC del/PDEL condrodisplasia/NC
 síndrome/NC del/PDEL dificultad/NC respiratorio/AQ
 síndrome/NC del/PDEL displasia/NC ectodérmico/AQ
 síndrome/NC del/PDEL down/NC
-síndrome/NC del/PDEL down/NC
 síndrome/NC del/PDEL dubin/NC
 síndrome/NC del/PDEL gilbert/NC
 síndrome/NC del/PDEL guillain/NC
@@ -1535,13 +1526,10 @@ síndrome/NC del/PDEL intestino/NC irritable/AQ
 síndrome/NC del/PDEL kearns/NC
 síndrome/NC del/PDEL klein/NC
 síndrome/NC del/PDEL leigh/NC
-síndrome/NC del/PDEL leigh/NC
 síndrome/NC del/PDEL lowe/NC
 síndrome/NC del/PDEL mesencéfalo/NC dorsal/AQ
 síndrome/NC del/PDEL ojo/NC seco/AQ
-síndrome/NC del/PDEL ojo/NC seco/AQ
 síndrome/NC del/PDEL ovario/NC poliquístico/AQ
-síndrome/NC del/PDEL parinaud/NC
 síndrome/NC del/PDEL parinaud/NC
 síndrome/NC del/PDEL pearson/NC
 síndrome/NC del/PDEL reiter/NC
@@ -1566,10 +1554,8 @@ sinusitis/NC
 sistema/NC braille/NC
 sistema/NC digestivo/AQ
 sistema/NC inmunitario/AQ
-sistema/NC inmunitario/AQ
 sistema/NC lagrimal/AQ
 sistema/NC nervioso/AQ
-sistema/NC nervioso/AQ central/AQ
 sistema/NC nervioso/AQ central/AQ
 sistema/NC respiratorio/AQ
 sobredosis/NC

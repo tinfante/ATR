@@ -369,11 +369,9 @@ def main(train_terms, test_corpus):
     candidate_scores = [(score, remove_str_postags(cand)) for score, cand
                         in candidate_scores]
 
-    stoplist = binom_stoplist(0.5)  # 0.5 buen valor
+    stoplist = binom_stoplist(0.2)  # 0.5 buen valor
     #stoplist = log_likelihood_stoplist(5)
-    print len(candidate_scores)
     candidate_scores = stoplist_filter(candidate_scores, stoplist)
-    print len(candidate_scores)
 
     return candidate_scores
 
@@ -398,7 +396,7 @@ if __name__ == '__main__':
     precision_by_segment = evaluation.precision_by_segments(
         test_terms, candidates, 4)
     for i, seg_precision in enumerate(precision_by_segment):
-        print '[%s] %s' % (i, round(seg_precision, 3))
+        print '[%s] %s' % (i+1, round(seg_precision, 3))
     recall_list, precision_list = evaluation.precision_at_recall_values(
         test_terms, candidates)
     evaluation.plot_precision_at_recall_values(recall_list, precision_list)
