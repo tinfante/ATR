@@ -30,6 +30,8 @@ def chunk_sents(tagged_sents, pos_pattern):
         for chk in chunker.parse(sent).subtrees():
             if str(chk).startswith('(TC'):
                 phrase = chk.__unicode__()[4:-1]
+                if '\n' in phrase:
+                    phrase = ' '.join(phrase.split())
                 chunk_freq_dict[phrase] += 1
     return chunk_freq_dict
 
@@ -221,6 +223,20 @@ def load_terms():
     return terms
 
 
+def recalc_chunk_freq(domain_sents, untagged_chunk_freqs):
+    corpus = ' '
+    for sent in domain_sents:
+        for word_tag in sent:
+            corpus += word_tag[0]
+            corpus += ' '
+    corpus += ' '
+    new_freqs = {}
+    for chunk in untagged_chunk_freqs.keys():
+        nchunk = ' ' + chunk + ' '
+        new_freqs[chunk] = corpus.count(nchunk)
+    return new_freqs
+
+
 def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
     # STEP 1
     domain_sents = domain_corpus
@@ -231,12 +247,13 @@ def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
 
     # Remove POS tags from chunks
     chunks_freqs = remove_dict_postags(chunks_freqs)
+    chunks_freqs = recalc_chunk_freq(domain_sents, chunks_freqs)
 
     # Discard chunks that don't meet minimum frequency
     chunks_freqs = min_freq_filter(chunks_freqs, min_freq)
 
     # Discard chunks with words in stoplist
-    stoplist = binom_stoplist(0.2)  # 0.5 good; 55 empty stoplist; min?
+    stoplist = binom_stoplist(55)  # 0.5 good; 55 empty stoplist; min?
     #stoplist = log_likelihood_stoplist(400)
     chunks_freqs = stoplist_filter(chunks_freqs, stoplist)
 
@@ -252,7 +269,7 @@ def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
 
 if __name__ == '__main__':
     PATTERN = r"""
-        TC: {<NC>+<AQ>*(<PDEL><DA>?<NC>+<AQ>*)*}
+        TC: {<NC>+<AQ>*(<PDEL><NC>+<AQ>*)*}
         """
     MIN_FREQ = 1
     MIN_CVAL = -14  # lowest cval -13
@@ -260,8 +277,15 @@ if __name__ == '__main__':
     terms = load_terms()
     domain_corpus = load_domain()
     candidates = main(domain_corpus, PATTERN, MIN_FREQ, MIN_CVAL)
-    sorted_candidates = [cand for cand, score in sorted(
+    sorted_candidates = [(cand, score) for cand, score in sorted(
         candidates.items(), key=lambda x: x[1], reverse=True)]
+    #with open('cvalue-candidates.txt', 'w') as f:
+    #    new_cands = []
+    #    for c in sorted_candidates:
+    #        newc = '%.5f\t%s' % (c[1], c[0])
+    #        new_cands.append(newc)
+    #    f.write('\n'.join(new_cands).encode('utf-8'))
+    sorted_candidates = [cand for cand, score in sorted_candidates]
     print '\nC-VALUE'
     print '========'
     print '[C]', len(sorted_candidates)
