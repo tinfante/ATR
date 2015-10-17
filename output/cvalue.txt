@@ -6,73 +6,73 @@ C-VALUE
 [P] 0.236
 [R] 1.0
 ========
-[0] 0.316
-[1] 0.158
-[2] 0.149
-[3] 0.323
+[0] 0.317
+[1] 0.159
+[2] 0.143
+[3] 0.326
 
-2159.38875	ojo
+2159.32055	ojo
 1908.00000	poder
-1798.18966	ser
-719.80451	visión
+1799.00000	ser
+719.70079	visión
 529.43434	examen
 527.14815	médico
-510.43478	persona
-392.83168	enfermedad
+510.28205	persona
+392.69307	enfermedad
 383.66250	síntoma
 359.28070	cirugía
 355.29851	tratamiento
 354.38235	medicamento
 316.94737	degeneración macular
 312.80000	problema
-297.98438	retina
+297.91379	retina
 297.87891	pérdida del visión
+281.00000	ver
 280.84615	luz
-279.62712	ver
 272.09091	parte
 268.22222	glaucoma
-264.47917	riesgo
-256.55357	dolor
+264.41304	riesgo
+256.31250	dolor
 249.56638	lente del contacto
 239.46429	catarata
-236.49398	causa
+236.47500	causa
 217.34211	párpado
 206.06250	infección
 205.09091	pérdida
-196.62264	lente
-195.16393	lesión
+196.57692	lente
+195.15000	lesión
 192.37000	tipo
 192.16667	vez
-190.39623	presión
-190.08602	forma
+190.18462	forma
+190.15217	presión
 189.14286	córnea
 183.94737	niño
-176.93023	gota
+176.82051	gota
 176.43182	caso
 176.25000	vaso sanguíneo
 162.00000	nombre alternativo
-153.96689	edad
-150.20968	nervio
+153.06667	edad
+149.72222	nervio
 147.45455	nervio óptico
 146.66667	diabetes
-143.73913	pupila
-142.32000	día
+143.61905	pupila
 142.17294	factor del riesgo
-139.59459	cambio
-135.52239	año
+142.05882	día
+139.58333	cambio
 134.20264	dolor del cabeza
+134.00000	año
 132.43902	prueba
 130.42105	paciente
 129.57143	información
 124.88889	contacto
 124.00000	cristalino
-122.29412	uso
-121.60000	trastorno
-120.71429	conjuntivitis
+122.28000	uso
+121.58182	trastorno
+120.73077	conjuntivitis
 117.00000	oculista
-116.96429	cuerpo
+116.80769	cuerpo
 116.10000	melatonina
-115.34409	normal
+115.40741	normal
 112.35417	síndrome
 111.88235	afección
 110.71111	mayoría
@@ -82,29 +82,29 @@ C-VALUE
 105.60000	daño
 104.94948	desprendimiento del retina
 104.77419	vaso
-104.70455	efecto
+104.48571	efecto
 104.48148	sangre
 104.00000	tiempo
-102.45000	cerebro
+102.66667	cerebro
 102.00000	visión borroso
 97.26923	cabeza
 96.00000	retinopatía diabético
 94.53191	tejido
 93.70968	piel
-91.78723	color
+91.74359	color
 90.57576	líquido
 90.21429	lágrima
 90.04286	glaucoma del ángulo
-89.76190	vista
+89.75000	vista
 89.33333	asistencia médico
 87.54839	estudio
 85.75000	nombre
 85.66667	general
-85.50000	doctor
+85.33333	doctor
 84.01128	enfermedad del ojo
 83.60000	globo ocular
 82.75000	manera
-82.72414	imagen
+82.69231	imagen
 82.63333	inflamación
 82.00000	embargo
 81.66667	enfermedad mitocóndricas
@@ -114,12 +114,12 @@ C-VALUE
 77.89474	alergia
 77.82143	signo
 77.80000	complicación
-77.56250	factor
+77.33333	factor
 76.66667	resultado
 75.66667	procedimiento
 75.08571	movimiento
 74.96391	punta del gotero
-74.63636	mano
+74.80000	mano
 74.58824	músculo
 74.00000	hijo
 73.44444	iris
@@ -140,10 +140,10 @@ C-VALUE
 66.56667	actividad
 66.25000	semana
 66.00000	enfermedad diabético del ojo
-65.66667	dosis
+65.81818	dosis
 65.20000	tamaño
 65.00000	párpado inferior
-64.73077	tumor
+64.78261	tumor
 64.62406	lámpara del hendidura
 64.38462	enrojecimiento
 64.26667	blanco
@@ -151,7 +151,7 @@ C-VALUE
 63.00000	examen físico
 63.00000	examen completo del ojo
 62.90000	prevención
-62.50000	hora
+62.40000	hora
 62.00000	ojo seco
 62.00000	aumento
 61.45455	gota oftálmico
@@ -161,7 +161,7 @@ C-VALUE
 57.74194	célula
 57.40000	examen ocular
 57.16667	deporte
-56.87500	cabo
+57.00000	cabo
 56.86918	dilatación del pupila
 56.86918	parte del ojo
 56.86918	lesión del ojo
@@ -179,7 +179,7 @@ C-VALUE
 53.22222	ángulo
 53.00000	minuto
 53.00000	menudo
-52.76923	sensibilidad
+52.75000	sensibilidad
 51.66667	químico
 51.64706	rojo
 51.28571	sueño
@@ -187,18 +187,18 @@ C-VALUE
 49.70588	diagnóstico
 49.42857	exposición
 49.40909	número
-49.35294	salud
+49.20000	salud
 49.17647	emergencia
 49.11429	enrojecimiento del ojo
 49.11429	alrededor del ojo
 48.79117	mayoría del caso
 48.00000	interior
 47.85714	miopía
-47.66667	capa
+47.56667	capa
 47.50000	pregunta
-47.37500	vida
+47.00000	vida
 46.56000	secreción
-45.68750	cosa
+45.85714	cosa
 45.33333	dolor ocular
 45.27273	ungüento
 44.57143	ayuda
@@ -207,25 +207,25 @@ C-VALUE
 44.00000	farmacéutico
 43.94436	degeneración macular húmedo
 43.94436	movimiento del ojo
-43.68750	estado
 43.66667	visión central
 43.66667	expectativa
+43.61538	estado
 43.33333	esclerosis múltiple
-43.26667	vitamina
+43.23077	vitamina
 42.85714	retinoblastoma
 42.84211	familiar
 42.75000	situación
-42.70588	lado
 42.68421	rayo
-42.52632	cara
+42.54545	lado
+42.18182	cara
 42.00000	humor vítreo
 41.84615	sensación
-41.73333	producto
-41.66667	terapia
+41.64286	producto
+41.61111	terapia
 41.35940	degeneración macular seco
 41.35940	parte del cuerpo
 41.00000	alrededor
-40.53571	control
+40.50000	control
 40.22727	centro
 40.00000	consultorio médico
 40.00000	agudeza visual
@@ -241,7 +241,7 @@ C-VALUE
 39.00000	academia americano del oftalmología
 39.00000	instituto nacional del ojo
 38.77444	formulación del areds
-38.33333	medio
+38.43750	medio
 38.00000	antecedente familiar
 38.00000	hinchazón
 38.00000	profesional
@@ -249,19 +249,20 @@ C-VALUE
 38.00000	casa
 38.00000	lesión ocular
 38.00000	resultado anormal
-37.87500	etapa
 37.81250	protector
 37.66667	nariz
-37.26667	sol
+37.37500	etapa
+37.20000	dedo
 36.88889	lugar
 36.86667	cáncer
+36.80000	sol
 36.66667	suplemento
-36.60000	polvo
 36.36364	señal
+36.33333	polvo
 36.18948	uso del melatonina
 36.18948	información del importancia
 36.00000	lágrima artificial
-35.85185	familia
+35.87500	familia
 35.67248	aumento del presión
 35.62500	protección
 35.61538	irritación
@@ -271,13 +272,12 @@ C-VALUE
 35.50000	incidencia
 35.45455	aire
 35.18182	úlcera
-35.16667	dedo
 34.89699	cristalino del ojo
 34.70588	desarrollo
 34.66667	examen completo
 34.57143	molestia
-34.52941	cuidado
 34.50000	sustancia
+34.27273	cuidado
 34.00000	causa común
 34.00000	dedo índice
 34.00000	persona mayor
@@ -286,13 +286,13 @@ C-VALUE
 33.60451	estilo del vida
 33.60451	cirugía del ojo
 33.60451	cirugía del catarata
+32.92857	c
+32.71429	bacteria
 32.66667	picazón
 32.50000	par craneal
-32.44444	bacteria
 32.40000	resonancia magnético
 32.31250	parálisis
 32.20000	frente
-32.13218	c
 32.00000	forma húmedo
 32.00000	ardor
 32.00000	distancia
@@ -305,18 +305,18 @@ C-VALUE
 31.01955	distrofia del fuchs
 31.01955	examen del sangre
 31.01955	tamaño del pupila
-31.00000	cita
 31.00000	mácula
 31.00000	receta
 31.00000	melanoma intraocular
 30.80000	método
+30.75000	cita
 30.50000	garganta
 30.44444	antibiótico
 30.23077	rápido
 30.00000	precaución especial
 30.00000	luz brillante
 30.00000	párpado inferior del ojo
-29.86667	historia
+29.69231	historia
 29.66667	diario
 29.66667	droga
 29.57143	nistagmo
@@ -333,6 +333,7 @@ C-VALUE
 28.43459	cantidad del luz
 28.43459	infección del ojo
 28.43459	disminución del visión
+28.00000	ud
 28.00000	nervio craneal
 28.00000	catarata congénito
 28.00000	rinitis alérgico
@@ -341,18 +342,17 @@ C-VALUE
 28.00000	tinte
 27.88889	antecedente
 27.82353	evaluación
-27.80000	capacidad
+27.75000	capacidad
 27.71429	fiebre
 27.33333	quemadura
 27.00000	historia clínico
 27.00000	hogar
+27.00000	razón
 27.00000	vaso sanguíneo del retina
-26.75000	razón
 26.62500	libre
-26.50000	estructura
 26.50000	tóxico
+26.45455	estructura
 26.42857	parche
-26.32520	ud
 26.00000	paño limpio
 26.00000	consideración general
 26.00000	cuerpo ciliar
@@ -361,6 +361,7 @@ C-VALUE
 26.00000	parte frontal
 26.00000	movimiento ocular
 26.00000	sistema nervioso
+25.88235	arteria
 25.84963	retinopatía del prematuridad
 25.84963	tipo del glaucoma
 25.84963	hidróxido del amonio
@@ -369,13 +370,12 @@ C-VALUE
 25.66667	traumatismo
 25.60000	cefalea
 25.58333	papel
-25.58333	respuesta
+25.54545	respuesta
 25.50000	crecimiento
 25.40000	lámpara
 25.33333	párpado superior
 25.33333	presión ocular
 25.16667	posibilidad
-25.04000	arteria
 25.00000	envejecimiento
 25.00000	pestaña
 25.00000	hecho
@@ -383,11 +383,11 @@ C-VALUE
 24.87500	ejercicio
 24.83333	beneficio
 24.83333	virus
-24.82353	americano
+24.83333	americano
 24.80000	rejilla
 24.60000	anzuelo
+24.40000	reparación
 24.40000	campo visual
-24.29412	reparación
 24.16667	debilidad
 24.00000	valor normal
 24.00000	mujer
@@ -397,11 +397,10 @@ C-VALUE
 24.00000	problema visual
 24.00000	pérdida permanente del visión
 24.00000	realidad
+23.83333	conjuntiva
 23.62500	seguridad
 23.53333	deterioro
 23.50000	animal
-23.44444	conjuntiva
-23.31250	local
 23.26466	vaso sanguíneo anormal
 23.26466	superficie del córnea
 23.26466	alcance del niño
@@ -409,7 +408,7 @@ C-VALUE
 23.26466	dolor del garganta
 23.26466	fiebre del heno
 23.25000	albinismo
-23.20080	par
+23.15385	local
 23.00000	jabón
 23.00000	dieta
 23.00000	fármaco
@@ -422,6 +421,7 @@ C-VALUE
 22.66667	mancha
 22.60000	humor
 22.50000	especialista
+22.33333	par
 22.33333	convulsión
 22.30000	sentido
 22.00000	vómito
@@ -438,19 +438,19 @@ C-VALUE
 21.80000	timolol
 21.77778	recuperación
 21.70000	material
-21.66667	herpes
 21.57143	uveítis
 21.50000	aparato
+21.50000	herpes
 21.40000	membrana
 21.25000	hendidura
 21.00000	pérdida del visión central
 21.00000	agudeza
+21.00000	grado
 21.00000	oxígeno
 21.00000	hospital
 21.00000	partícula
 21.00000	tabla
 21.00000	amigo
-20.83333	grado
 20.75000	dilatación
 20.69231	solución
 20.67970	problema del diabetes
@@ -460,8 +460,8 @@ C-VALUE
 20.67970	líquido del ojo
 20.66667	cirujano
 20.66667	esclerótica
-20.58333	deficiencia
 20.57143	amarillo
+20.54545	deficiencia
 20.50000	músculo ocular
 20.50000	humano
 20.28571	evidencia
@@ -485,7 +485,6 @@ C-VALUE
 19.62500	órgano
 19.60000	paso
 19.60000	sangrado
-19.33333	lista
 19.28571	azúcar
 19.25000	formulación
 19.22222	obstrucción
@@ -497,10 +496,10 @@ C-VALUE
 18.95639	gafas del sol
 18.87500	polen
 18.80000	seguro
-18.78947	función
 18.77778	conducto
 18.74098	blanco del ojo
 18.73333	producción
+18.71429	función
 18.66667	nervio facial
 18.50000	cámara
 18.50000	estándar
@@ -534,21 +533,22 @@ C-VALUE
 18.00000	consideración
 18.00000	marca
 18.00000	tabla optométrico
+18.00000	lista
 18.00000	diabetes tipo
 18.00000	ojo perezoso
 18.00000	artritis reumatoideo
 18.00000	sigla
 18.00000	intoxicación
+18.00000	cono
 18.00000	rayo láser
 18.00000	lente del aumento especial
 18.00000	pupila blanco
+18.00000	mito
 17.92308	apariencia
-17.90000	cono
 17.87500	patrón
-17.81818	espasmo
+17.81818	posición
+17.77778	espasmo
 17.75000	reducción
-17.66667	posición
-17.50000	miopatía
 17.42857	glucosa
 17.37500	hepatitis
 17.33333	conducto lagrimal
@@ -557,7 +557,6 @@ C-VALUE
 17.25000	probabilidad
 17.23308	sentido del gusto
 17.23308	exterior del ojo
-17.08696	mito
 17.00000	atp
 17.00000	instrumento
 17.00000	hemorragia
@@ -567,17 +566,19 @@ C-VALUE
 17.00000	hígado
 17.00000	lesión corneal
 17.00000	energía
+17.00000	miopatía
 16.81818	presencia
+16.80000	gen
 16.80000	soldadura
 16.75000	nacimiento
 16.72727	negro
 16.66667	travoprost
-16.66667	ilustración
 16.66667	consultorio
 16.60964	reparación del desprendimiento del retina
 16.60964	centro del control del envenenamiento
 16.50000	diferencia
 16.50000	instituto nacional del salud
+16.50000	ilustración
 16.50000	preparación
 16.37143	examen del visión
 16.25000	mononeuropatía
@@ -597,10 +598,10 @@ C-VALUE
 16.00000	estudio adicional
 16.00000	hierba
 16.00000	actividad diario
-15.92308	ácido
+15.90000	ácido
 15.87500	distrofia
 15.84615	drenaje
-15.82857	and
+15.81818	and
 15.75000	importancia
 15.72727	período
 15.66667	espacio
@@ -622,7 +623,6 @@ C-VALUE
 15.50978	tipo del catarata
 15.50978	fondo del ojo
 15.50978	movimiento ocular rápido
-15.49686	gen
 15.40000	órbita
 15.33333	superficie transparente
 15.25000	areds
@@ -635,6 +635,7 @@ C-VALUE
 15.00000	hombre
 15.00000	riñón
 15.00000	síndrome del ojo seco
+15.00000	pie
 15.00000	pérdida permanente
 15.00000	obstrucción del conducto lagrimal
 15.00000	prueba del agudeza visual
@@ -644,30 +645,29 @@ C-VALUE
 14.85714	metal
 14.83333	queratitis
 14.83333	fotografía
-14.81250	fin
 14.80000	fuente
-14.76190	tapa
-14.76087	pie
 14.75000	combinación
 14.75000	escarlatina
-14.66667	visión cercano
 14.66667	retinitis
 14.62500	azul
 14.60000	compresa
-14.54545	arco
+14.50000	arco
 14.50000	laboratorio
 14.44444	prematuridad
 14.33333	ensayo
 14.21729	uso del gafas
 14.21729	síndrome del sjögren
+14.12500	of
 14.00000	cristalino opaco
+14.00000	visión cercano
+14.00000	enfermedad mitocóndrica
 14.00000	glaucoma congénito
 14.00000	punción lumbar
 14.00000	continuación
 14.00000	presión sanguíneo
 14.00000	herida
 14.00000	miopatía mitocóndricas
-14.00000	moho
+14.00000	tapa
 14.00000	cmv
 14.00000	latanoprost
 14.00000	ganglio linfático
@@ -677,6 +677,7 @@ C-VALUE
 14.00000	sitio web
 14.00000	parte blanco
 14.00000	ojo saltón
+14.00000	nei
 14.00000	temperatura ambiente
 14.00000	etapa inicial
 14.00000	consideración especial
@@ -690,13 +691,11 @@ C-VALUE
 14.00000	cirugía ocular
 14.00000	mosca volante
 14.00000	problema ocular
-13.92523	of
 13.80000	fatiga
-13.71429	enfermedad mitocóndrica
 13.66667	pared
 13.55556	exterior
 13.50000	claridad
-13.50000	medicina
+13.33333	medicina
 13.28771	efecto del suplemento del melatonina
 13.28771	etapa inicial del degeneración macular
 13.28771	cadena del transporte del electrón
@@ -704,9 +703,11 @@ C-VALUE
 13.20000	apoyo
 13.16667	trasplante
 13.00000	presente
+13.00000	fin
 13.00000	ocasión
 13.00000	ambliopía
 13.00000	elemento
+13.00000	moho
 13.00000	característica
 13.00000	organización
 13.00000	espejo
@@ -764,6 +765,7 @@ C-VALUE
 12.00000	accidente cerebrovascular
 12.00000	tarea diario
 12.00000	impulso nervioso
+12.00000	trauma
 12.00000	página
 12.00000	gota anestésico
 12.00000	pérdida gradual del visión
@@ -794,7 +796,6 @@ C-VALUE
 12.00000	dolor articular
 12.00000	objeto distante
 12.00000	corticosteroide
-12.00000	nei
 12.00000	adolescente
 12.00000	parte interno del ojo
 12.00000	lagrimeo excesivo
@@ -816,6 +817,7 @@ C-VALUE
 12.00000	través del nervio óptico
 12.00000	hipertensión
 12.00000	término médico
+12.00000	tacto
 12.00000	retinoblastoma hereditario
 12.00000	retraso
 12.00000	ojo sano
@@ -827,13 +829,13 @@ C-VALUE
 12.00000	calor excesivo
 11.87500	proceso
 11.87500	temporal
-11.83333	esteroide
 11.80000	mensaje
-11.80000	trauma
 11.75000	bilirrubina
+11.66667	esteroide
 11.63233	capa del tejido
 11.63233	período del tiempo
 11.60000	parte superior
+11.60000	tensión
 11.50000	extirpación
 11.50000	fluoresceína
 11.50000	inicio
@@ -842,17 +844,18 @@ C-VALUE
 11.33333	necesidad
 11.33333	fondo
 11.33333	programa
-11.22222	tensión
-11.14011	i
+11.14286	i
 11.00000	olfato
 11.00000	principio
 11.00000	viento
 11.00000	drusa
 11.00000	oído interno
 11.00000	tipo i
+11.00000	tonometría
 11.00000	cuello
 11.00000	inyección
 11.00000	leche
+11.00000	asma
 11.00000	enfermero
 11.00000	juguete
 11.00000	temperatura
@@ -866,8 +869,8 @@ C-VALUE
 10.66667	historia médico
 10.62500	inclinación
 10.57143	conteo
-10.56250	gas
 10.50000	complejo
+10.42857	gas
 10.33985	resequedad del boca
 10.33985	mayoría del vez
 10.33985	caspa del animal
@@ -926,6 +929,7 @@ C-VALUE
 10.00000	dedo pulgar
 10.00000	línea recto
 10.00000	infección viral
+10.00000	peso
 10.00000	médula espinal
 10.00000	dificultad respiratorio
 10.00000	glioma óptico
@@ -942,7 +946,6 @@ C-VALUE
 10.00000	oftalmoscopia indirecto
 10.00000	hemorragia subconjuntival
 10.00000	membrana mucoso
-10.00000	tonometría
 10.00000	problema médico
 10.00000	arena
 10.00000	causa subyacente
@@ -971,7 +974,6 @@ C-VALUE
 10.00000	glándula lagrimal
 10.00000	golpe
 10.00000	consecuencia
-10.00000	alcohol
 10.00000	parálisis facial
 10.00000	tratamiento temprano
 10.00000	visión deficiente
@@ -983,22 +985,20 @@ C-VALUE
 9.96578	opacidad del cristalino del ojo
 9.96578	control del nivel del glucemia
 9.88889	cubierta
-9.85714	peso
 9.80000	término
-9.80000	equilibrio
 9.75000	radiación
+9.75000	pigmento
+9.75000	equilibrio
 9.75000	audición
-9.75000	asma
-9.62500	ropa
+9.60000	ropa
 9.60000	parto
 9.57143	oclusión
 9.57143	urgencia
 9.47820	síntoma del enfermedad
-9.42857	onda
-9.42857	progreso
 9.33333	alteración
 9.33333	calor
-9.20000	pigmento
+9.33333	progreso
+9.20000	onda
 9.20000	glioma
 9.04737	suplemento del melatonina
 9.04737	uso del gota
@@ -1025,6 +1025,7 @@ C-VALUE
 9.00000	deporte del riesgo alto
 9.00000	señal del degeneración macular
 9.00000	cabello
+9.00000	lio
 9.00000	examen del visión lejano
 9.00000	área central del visión
 9.00000	centro del toxicología local
@@ -1032,6 +1033,7 @@ C-VALUE
 9.00000	mareo
 9.00000	final
 9.00000	solución salino
+9.00000	gente
 9.00000	rango del valor normal
 9.00000	visión cromático
 9.00000	brazo
@@ -1055,6 +1057,7 @@ C-VALUE
 9.00000	lubricación normal del ojo
 9.00000	extirpación quirúrgico del piel
 9.00000	fotofobia
+9.00000	alcohol
 9.00000	intolerancia
 9.00000	acuerdo
 9.00000	rayo ultravioleta del sol
@@ -1065,10 +1068,9 @@ C-VALUE
 8.87500	ausencia
 8.87500	variedad
 8.83333	extremo
-8.83333	tópico
 8.80000	porción
 8.80000	anomalía
-8.77273	lio
+8.80000	tópico
 8.75000	hipoacusia
 8.75000	rehabilitación
 8.71429	origen
@@ -1076,10 +1078,10 @@ C-VALUE
 8.66667	extirpación quirúrgico
 8.66667	insulina
 8.50000	destello
+8.50000	humo
 8.50000	gel
-8.40000	sequedad
 8.25000	policarbonato
-8.04348	tacto
+8.25000	sequedad
 8.00000	anatomía
 8.00000	tejido corneal
 8.00000	calidad
@@ -1089,6 +1091,7 @@ C-VALUE
 8.00000	glaucoma agudo
 8.00000	enfermedad neuromuscular
 8.00000	saliva
+8.00000	normalidad
 8.00000	error refractivo
 8.00000	localización
 8.00000	agente irritante
@@ -1097,6 +1100,7 @@ C-VALUE
 8.00000	impacto
 8.00000	desecho
 8.00000	célula muscular
+8.00000	plan
 8.00000	folleto
 8.00000	presión alto
 8.00000	córnea opaco
@@ -1105,6 +1109,7 @@ C-VALUE
 8.00000	cita médico
 8.00000	parche ocular
 8.00000	queratoconjuntivitis seco
+8.00000	irm
 8.00000	depresión
 8.00000	glóbulo blanco
 8.00000	acidosis lácteo
@@ -1126,7 +1131,6 @@ C-VALUE
 8.00000	cuidado personal
 8.00000	ictericia fisiológico
 8.00000	coágulo
-8.00000	gente
 8.00000	heterocromía
 8.00000	infección bacteriano
 8.00000	retinitis pigmentoso
@@ -1139,6 +1143,7 @@ C-VALUE
 8.00000	cansancio ocular
 8.00000	información general
 8.00000	serie
+8.00000	cura
 8.00000	prueba cutáneo
 8.00000	ataxia
 8.00000	queratotomía radial
@@ -1168,7 +1173,6 @@ C-VALUE
 8.00000	anestesia general
 8.00000	mancha blanco
 7.83333	limpieza
-7.83333	cura
 7.80000	ultrasonido
 7.75489	tratamiento del glaucoma
 7.75489	examen ocular completo
@@ -1287,15 +1291,15 @@ C-VALUE
 7.75000	prednisolona
 7.75000	funcionamiento
 7.75000	técnica
-7.66667	electrón
 7.66667	grasa
 7.66667	cierre
-7.62500	pred
 7.61471	forma parte del instituto nacional del salud
 7.60000	corrección
 7.60000	tela
+7.50000	d
 7.50000	tc
-7.41667	plan
+7.50000	electrón
+7.50000	pred
 7.33333	detección
 7.33333	canal colector
 7.33333	rojo brillante
@@ -1305,7 +1309,6 @@ C-VALUE
 7.16993	academia americano del médico del familia
 7.16993	mayoría del caso del nistagmo congénito
 7.16993	dosis del formulación del estudio areds
-7.15348	d
 7.00000	televisor
 7.00000	pastilla
 7.00000	descripción
@@ -1326,6 +1329,7 @@ C-VALUE
 7.00000	gota ocular
 7.00000	pulgar
 7.00000	sombra
+7.00000	sida
 7.00000	vacuna
 7.00000	estómago
 7.00000	televisión
@@ -1335,6 +1339,7 @@ C-VALUE
 7.00000	hipermetropía
 7.00000	warfarina
 7.00000	lave
+7.00000	tos
 7.00000	interacción
 7.00000	asociación
 7.00000	respecto
@@ -1344,6 +1349,7 @@ C-VALUE
 7.00000	plazo
 7.00000	maquillaje
 7.00000	enciclopedia
+7.00000	coroide
 7.00000	sarcoidosis
 7.00000	relación
 6.83333	borde
@@ -1355,7 +1361,6 @@ C-VALUE
 6.66667	extracción
 6.66667	comienzo
 6.66667	molécula
-6.66667	tos
 6.66667	supervisión
 6.66667	jaqueca
 6.64386	forma seco del degeneración macular
@@ -1390,14 +1395,11 @@ C-VALUE
 6.50000	diseño
 6.50000	mundo
 6.46241	arteria del retina
-6.42857	humo
 6.33333	cuestión
-6.33333	mitad
 6.00000	signo posible del retinoblastoma
 6.00000	pérdida del visión permanente
 6.00000	cuestión especial
 6.00000	queratitis bacterial
-6.00000	cama
 6.00000	oclusión del arteria retiniano
 6.00000	exposición excesivo
 6.00000	visión claro
@@ -1424,7 +1426,6 @@ C-VALUE
 6.00000	imperfección común del ojo
 6.00000	unidad internacional del vitamina
 6.00000	tejido transparente
-6.00000	normalidad
 6.00000	superficie transparente del ojo
 6.00000	aspecto
 6.00000	capa del vaso sanguíneo
@@ -1480,6 +1481,7 @@ C-VALUE
 6.00000	retinoblastoma trilateral
 6.00000	actividad del vida diario
 6.00000	tratamiento del enfermedad mitocóndricas
+6.00000	mitad
 6.00000	enfermedad infeccioso
 6.00000	moderado
 6.00000	médico especialista
@@ -1504,6 +1506,7 @@ C-VALUE
 6.00000	ojo reseco
 6.00000	persona del origen africano
 6.00000	flujo sanguíneo
+6.00000	herpes simple
 6.00000	papel importante
 6.00000	cristalino artificial
 6.00000	ruptura del globo ocular
@@ -1541,6 +1544,7 @@ C-VALUE
 6.00000	problema gastrointestinal
 6.00000	vez mayor
 6.00000	máquina
+6.00000	m
 6.00000	traumatismo ocular
 6.00000	trastorno genético
 6.00000	cirugía refractivo del córnea
@@ -1642,13 +1646,13 @@ C-VALUE
 6.00000	entropión
 6.00000	gafas del sol oscuro
 6.00000	riesgo del degeneración macular
+6.00000	metro
 6.00000	letra grande
 6.00000	luz azul
 6.00000	tipo principal
 6.00000	condición específico
 6.00000	artritis reactivo
 6.00000	pelota
-6.00000	coroide
 6.00000	tejido cicatricial
 6.00000	molestia ocular
 6.00000	medicamento del venta libre
@@ -1659,7 +1663,7 @@ C-VALUE
 6.00000	luz centelleante
 5.75000	diseminación
 5.75000	enzima
-5.73333	sida
+5.66667	iv
 5.66667	aplicación
 5.50000	tubo
 5.50000	edema
@@ -1669,8 +1673,6 @@ C-VALUE
 5.33333	plata
 5.33333	transporte
 5.33333	glucemia
-5.33333	población
-5.20446	iv
 5.16993	efecto del tóxico
 5.16993	albinismo del tipo
 5.16993	técnica del adaptación
@@ -1914,6 +1916,7 @@ C-VALUE
 5.16993	diseminación del tumor
 5.00000	clamidia
 5.00000	facilidad
+5.00000	cama
 5.00000	radioterapia
 5.00000	insomnio
 5.00000	mañana
@@ -1921,9 +1924,11 @@ C-VALUE
 5.00000	nota
 5.00000	ángulo interno
 5.00000	colorante
+5.00000	seca
 5.00000	vibración
 5.00000	velocidad
 5.00000	suciedad
+5.00000	sonido
 5.00000	agente
 5.00000	confusión
 5.00000	presbiopía
@@ -1939,14 +1944,18 @@ C-VALUE
 5.00000	analgésico
 5.00000	regularidad
 5.00000	análisis
+5.00000	for
 5.00000	indicio
 5.00000	infección común
 5.00000	protrusión
 5.00000	hilo
 5.00000	pasado
+5.00000	x
 5.00000	estornudo
 5.00000	fda
 5.00000	anormalidad
+5.00000	eco
+5.00000	ndic
 5.00000	piso
 5.00000	béisbol
 5.00000	receptor
@@ -1963,46 +1972,42 @@ C-VALUE
 5.00000	forma parte
 5.00000	toxicidad
 5.00000	fotocoagulación
+5.00000	versión
 5.00000	estreñimiento
 5.00000	nutrición
 5.00000	precisión
+5.00000	cicatriz
+5.00000	formación
 5.00000	sonda
 5.00000	severidad
 5.00000	estreptococo
 5.00000	tamaño desigual
 5.00000	derecho
+5.00000	población
 5.00000	escáner
 5.00000	mosca
 5.00000	oscuridad
 5.00000	supuración
 5.00000	creatina
-5.00000	metro
 5.00000	oftalmoscopio
 5.00000	profundidad
-4.83333	sonido
 4.75000	ambulatorio
-4.75000	cicatriz
+4.75000	neuropatía
 4.66667	destapador
 4.66667	anaranjado
 4.66667	disco
 4.66667	cobre
-4.66667	versión
 4.66667	esperma
 4.50000	gasa
 4.50000	tabaco
-4.50000	neuropatía
 4.50000	automóvil
 4.50000	verano
 4.33333	chorro
 4.33333	ácaro
 4.32193	colgajo del tejido corneal del capa externo del globo ocular
-4.20000	irm
 4.16993	protección del ojo del asociación americano del oftalmología pediátrico
 4.16993	prueba del estándar del deporte del raqueta del csa
 4.16993	pérdida del proteína del cadena del transporte del electrón
-4.11909	m
-4.09184	x
-4.08850	for
 4.00000	entumecimiento
 4.00000	regla general
 4.00000	patrón mendeliano
@@ -2034,6 +2039,7 @@ C-VALUE
 4.00000	ecografía ocular
 4.00000	frecuencia cardíaco
 4.00000	problema permanente
+4.00000	diente
 4.00000	sociedad americano
 4.00000	menoscabo auditivo
 4.00000	objeto suelto
@@ -2115,7 +2121,9 @@ C-VALUE
 4.00000	tirón rápido
 4.00000	color verde
 4.00000	ritmo circadiano
+4.00000	acción
 4.00000	oficina local
+4.00000	em
 4.00000	material genético
 4.00000	infección grave
 4.00000	perro guía
@@ -2143,6 +2151,7 @@ C-VALUE
 4.00000	lesión craneal
 4.00000	gen defectuoso
 4.00000	dolor abdominal
+4.00000	trastorno neuro
 4.00000	tumor pequeño
 4.00000	enfermedad plus
 4.00000	ungüento antibiótico
@@ -2288,6 +2297,7 @@ C-VALUE
 4.00000	traumatismo cerebral
 4.00000	lesión cutáneo
 4.00000	telilla lagrimal
+4.00000	rop
 4.00000	producto secundario
 4.00000	herpes zóster
 4.00000	cambio visual
@@ -2371,10 +2381,12 @@ C-VALUE
 4.00000	prueba científico
 4.00000	irritabilidad
 4.00000	respiración
+4.00000	tema
 3.80735	cirugía del reparación del músculo del ojo
 3.80735	pérdida del visión resultante del retinopatía diabético
 3.80735	foto del tapa del serie del libre
 3.80735	familia portador del mutación del gen rb
+3.80735	activación del síntoma del enfermedad del crohn
 3.80735	responsable del mayoría del caso del ceguera
 3.80735	posibilidad del desarrollo del desprendimiento del retina
 3.80735	respuesta eléctrico del célula del ojo sensible
@@ -2391,7 +2403,6 @@ C-VALUE
 3.80735	ángulo superior externo del cuenca del ojo
 3.80735	externo del sistema del enfoque del ojo
 3.80735	ángulo inferior interno del cuenca del ojo
-3.80735	activación del síntoma del enfermedad del crohn
 3.80735	potencial del gravedad producto del medicamento antisicóticos
 3.80735	evaluación del función del músculo del ojo
 3.80735	apariencia del enrojecimiento del superficie del ojo
@@ -2410,15 +2421,11 @@ C-VALUE
 3.80735	examen del parte posterior del globo ocular
 3.80735	efecto del bloqueo neuromuscular del relajante muscular
 3.80735	cambio severo del nivel ácido del sangre
-3.80000	formación
-3.75000	tira
-3.71429	diente
-3.66667	seca
 3.66667	telilla
 3.66667	comportamiento
+3.66667	tira
 3.66667	curación
 3.66667	moco
-3.60000	uv
 3.58496	caso del cabina del bronceado artificial
 3.58496	deterioro del parte central del retina
 3.58496	causa del deterioro del visión enfermedad
@@ -2519,16 +2526,16 @@ C-VALUE
 3.58496	disminución lento del capacidad del ojo
 3.58496	síntoma del retinopatía del prematuridad severo
 3.58496	movimiento quirúrgico del hueso del órbita
+3.50000	uv
 3.50000	abultamiento
 3.50000	consulta
 3.50000	radiografía
 3.50000	propiedad
 3.50000	cansancio
 3.50000	gato
+3.50000	b
 3.50000	retinopexia
 3.50000	práctica
-3.48387	acción
-3.33333	duración
 3.32193	síntoma del desprendimiento del retina
 3.32193	imagen especial del nervio óptico
 3.32193	parte del enzima del hígado
@@ -2813,10 +2820,9 @@ C-VALUE
 3.32193	tratamiento rápido del cirugía láser
 3.32193	interrupción del suministro del sangre
 3.32193	aumento del presión del ojo
-3.24138	tema
-3.14402	b
 3.00000	realización del actividad diario
 3.00000	síntoma del miopatía mitocóndrica
+3.00000	pulso
 3.00000	síndrome del alcoholismo fetal
 3.00000	anatomía lateral del ojo
 3.00000	pérdida del terminación nervioso
@@ -2914,6 +2920,7 @@ C-VALUE
 3.00000	tipo del acción social
 3.00000	evidencia preliminar del interacción
 3.00000	enrojecimiento del ojo sensibilidad
+3.00000	s
 3.00000	hinchazón temporal del párpado
 3.00000	frasco
 3.00000	inflamación repentino del nervio
@@ -2929,19 +2936,24 @@ C-VALUE
 3.00000	producción del pigmento melanina
 3.00000	creatina quinasa del suero
 3.00000	anticoagulante
+3.00000	ak
 3.00000	tipo del gota oftálmico
 3.00000	parte central del mácula
 3.00000	plan del comida saludable
+3.00000	masa
 3.00000	examen periódico del seguimiento
 3.00000	instrumento del onda ultrasónico
 3.00000	tularemia
+3.00000	potencia
 3.00000	agencia del protección ambiental
 3.00000	pérdida leve del visión
+3.00000	vih
 3.00000	ejercicio del manera regular
 3.00000	tipo del célula inmune
 3.00000	disminución del funcionamiento intelectual
 3.00000	caso severo del enfermedad
 3.00000	control estricto del glucemia
+3.00000	riego
 3.00000	fuente principal del energía
 3.00000	diagnóstico temprano del diabetes
 3.00000	tratamiento rápido del tumor
@@ -3006,6 +3018,7 @@ C-VALUE
 3.00000	nivel tóxico del bilirrubina
 3.00000	enfermedad del arteria carótido
 3.00000	equipo especial del observación
+3.00000	pus
 3.00000	coloración marrón del ojo
 3.00000	persona del raza negro
 3.00000	reparación del estrabismo convergente
@@ -3015,6 +3028,7 @@ C-VALUE
 3.00000	causa del desfase horario
 3.00000	día libre del trabajo
 3.00000	enfermedad del vaso sanguíneo
+3.00000	situ
 3.00000	inflamación del párpado superior
 3.00000	movimiento involuntario del ojo
 3.00000	lupus
@@ -3128,6 +3142,7 @@ C-VALUE
 3.00000	enfermedad común del vista
 3.00000	porción frontal del ojo
 3.00000	distrofia endotelial del fuchs
+3.00000	tolerancia
 3.00000	atrofia del disco óptico
 3.00000	parte posterior del úvea
 3.00000	tejido interno del ojo
@@ -3383,6 +3398,7 @@ C-VALUE
 3.00000	riesgo del enfermedad cardiovascular
 3.00000	prueba del función hepático
 3.00000	oreja
+3.00000	duración
 3.00000	disfrute
 3.00000	deficiencia agudo del folato
 3.00000	forma alterno del comunicación
@@ -3516,6 +3532,7 @@ C-VALUE
 3.00000	forma del gota oftálmico
 3.00000	distorsión
 3.00000	visión del persona menor
+3.00000	n
 3.00000	clic
 3.00000	persona del descendencia mexicano
 3.00000	problema intrínseco del ojo
@@ -3603,6 +3620,7 @@ C-VALUE
 3.00000	causa principal del alergia
 3.00000	estilo del vida saludable
 3.00000	ampo tipo del herpes
+3.00000	copia
 3.00000	técnica del terapia genético
 3.00000	liberación súbito del histamina
 3.00000	vehículo
@@ -3668,8 +3686,6 @@ C-VALUE
 3.00000	riesgo alto del infección
 3.00000	progreso del degeneración macular
 3.00000	recuperación parcial del visión
-2.95238	ndic
-2.69231	rop
 2.58496	uso del antibiótico
 2.58496	comienzo del trastorno
 2.58496	causa del electrodo
@@ -4944,16 +4960,12 @@ C-VALUE
 2.58496	centro quirúrgico ambulatorio
 2.50000	colchón
 2.50000	seno
-2.50000	aneurisma
 2.50000	habla
 2.50000	controversia
 2.50000	folículo
 2.50000	anemia
 2.50000	habitación
 2.50000	perro
-2.33333	pus
-2.17949	eco
-2.09489	em
 2.00000	anillo gris
 2.00000	músculo esquelético
 2.00000	mejoramiento inmediato
@@ -4967,6 +4979,7 @@ C-VALUE
 2.00000	nutrition professional
 2.00000	conclusión claro
 2.00000	investigación inicial
+2.00000	specialist
 2.00000	grado centígrado
 2.00000	botella boca
 2.00000	cefalea histamínico
@@ -5005,6 +5018,7 @@ C-VALUE
 2.00000	objeto foráneo
 2.00000	menú
 2.00000	sibilancias
+2.00000	mel
 2.00000	información ayuda
 2.00000	ojo similar
 2.00000	miopía afecto
@@ -5109,7 +5123,6 @@ C-VALUE
 2.00000	amoníaco acuoso
 2.00000	tratamiento eficaz
 2.00000	mantenimiento permanente
-2.00000	neuritis retro
 2.00000	dhea
 2.00000	escáner moderno
 2.00000	vendaje
@@ -5134,10 +5147,8 @@ C-VALUE
 2.00000	síndrome genético
 2.00000	zona borroso
 2.00000	queratotomía fotorrefractiva
-2.00000	ak
 2.00000	través dieta
 2.00000	apariencia flácido
-2.00000	masa
 2.00000	medicamento beta
 2.00000	pestañeo
 2.00000	tratamiento efectivo
@@ -5145,7 +5156,6 @@ C-VALUE
 2.00000	herpes genital
 2.00000	pase
 2.00000	obstrucción intestinal
-2.00000	potencia
 2.00000	droga antiinflamatorio
 2.00000	cordón elástico
 2.00000	raza
@@ -5153,7 +5163,6 @@ C-VALUE
 2.00000	examen clínico
 2.00000	ser humano
 2.00000	muesca negro
-2.00000	vih
 2.00000	mutación común
 2.00000	atención riguroso
 2.00000	instrumento quirúrgico
@@ -5164,7 +5173,6 @@ C-VALUE
 2.00000	área sanguinolento
 2.00000	forma directo
 2.00000	trauma ocular
-2.00000	riego
 2.00000	uso regular
 2.00000	resultado preliminar
 2.00000	afroamericano mayor
@@ -5181,14 +5189,17 @@ C-VALUE
 2.00000	estómago líquido
 2.00000	coroiditis
 2.00000	glándula lacrimal
+2.00000	jet
 2.00000	doxiciclina oral
 2.00000	for occupational
+2.00000	eficiencia
 2.00000	tratamiento profesional
 2.00000	virus capaz
 2.00000	protección satisfactorio
 2.00000	chequeo regular
 2.00000	definición
 2.00000	dieta líquido
+2.00000	compresión
 2.00000	ventaja
 2.00000	problema ligero
 2.00000	inhalación
@@ -5276,6 +5287,7 @@ C-VALUE
 2.00000	gafa protector
 2.00000	blancura visible
 2.00000	amígdala
+2.00000	aneurisma
 2.00000	carbón
 2.00000	cheque especial
 2.00000	colitis ulceroso
@@ -5393,8 +5405,10 @@ C-VALUE
 2.00000	luz suficiente
 2.00000	defecto congénito
 2.00000	c vih-sida
+2.00000	lag
 2.00000	sinusitis
 2.00000	luz ayuda
+2.00000	l
 2.00000	absceso
 2.00000	agitación nocturno
 2.00000	miligramo diario
@@ -5404,6 +5418,7 @@ C-VALUE
 2.00000	capa interno
 2.00000	papel fundamental
 2.00000	fallo hepático
+2.00000	primavera
 2.00000	estructura auditivo
 2.00000	corazón cardiomiopatía
 2.00000	caso afirmativo
@@ -5481,6 +5496,7 @@ C-VALUE
 2.00000	mesa estrecho
 2.00000	dolor súbito
 2.00000	boca seco
+2.00000	v
 2.00000	kss
 2.00000	related macular
 2.00000	actividad riesgoso
@@ -5509,6 +5525,7 @@ C-VALUE
 2.00000	resultado similar
 2.00000	fosfato decreatina
 2.00000	ubicación
+2.00000	tacto suave
 2.00000	ardor ocular
 2.00000	procedimiento exacto
 2.00000	cinta métrico
@@ -5550,7 +5567,6 @@ C-VALUE
 2.00000	ultrasonido ayuda
 2.00000	abrasión diminuto
 2.00000	básquetbol
-2.00000	tolerancia
 2.00000	parto prematuro
 2.00000	animal raro
 2.00000	ocusert
@@ -5565,6 +5581,7 @@ C-VALUE
 2.00000	iridotomía
 2.00000	partícula foráneo
 2.00000	dibujo
+2.00000	low
 2.00000	clínica oftalmológico
 2.00000	expansión uniforme
 2.00000	vitamina antioxidante
@@ -5579,6 +5596,7 @@ C-VALUE
 2.00000	fecha respecto
 2.00000	edad age
 2.00000	mild
+2.00000	md
 2.00000	eccema
 2.00000	lesión orbital
 2.00000	mononeuritis múltiple
@@ -5611,12 +5629,10 @@ C-VALUE
 2.00000	prueba sencillo
 2.00000	c alto
 2.00000	alteración visual
-2.00000	trastorno neuro
 2.00000	propranolol
 2.00000	glándula meibomianas
 2.00000	razón principal
 2.00000	rayón
-2.00000	herpes simple
 2.00000	lente prismático
 2.00000	hemangioma
 2.00000	grado fahrenheit
@@ -5688,6 +5704,7 @@ C-VALUE
 2.00000	celulitis periorbitaria
 2.00000	metoprolol
 2.00000	fotocoagulación panretiniana
+2.00000	gene
 2.00000	condición normal
 2.00000	drusa solo
 2.00000	afección afecto
@@ -5796,6 +5813,7 @@ C-VALUE
 2.00000	fundación americano
 2.00000	colitis ulcerativo
 2.00000	síndrome inflamatorio
+2.00000	dra
 2.00000	contributors to
 2.00000	insuficiencia aórtico
 2.00000	aplicador
@@ -5822,6 +5840,7 @@ C-VALUE
 2.00000	cambio severo
 2.00000	visión opaco
 2.00000	arritmia
+2.00000	foto
 2.00000	corazón lento
 2.00000	patrón temporal
 2.00000	deficiencia específico
@@ -5852,6 +5871,7 @@ C-VALUE
 2.00000	síntoma usual
 2.00000	persona alérgico
 2.00000	visión bueno
+2.00000	astilla
 2.00000	fecha posterior
 2.00000	página siguiente
 2.00000	parte alto
@@ -5941,6 +5961,7 @@ C-VALUE
 2.00000	inyección conjuntival
 2.00000	causa inicial
 2.00000	ojo solo
+2.00000	gen p
 2.00000	eccema atópico
 2.00000	ruido
 2.00000	problema prominente
@@ -5957,6 +5978,7 @@ C-VALUE
 2.00000	medicamento corticosteroide
 2.00000	frasco nuevo
 2.00000	seguimiento cuidadoso
+2.00000	estación
 2.00000	cirugía cerebral
 2.00000	persona daltónico
 2.00000	deporte fuerte
@@ -5979,10 +6001,12 @@ C-VALUE
 2.00000	borrosidad mejora
 2.00000	impétigo
 2.00000	arteriopatía coronario
+2.00000	ansi
 2.00000	toma diurético
 2.00000	ropa suelto
 2.00000	pupila similar
 2.00000	pronóstico desalentador
+2.00000	neuritis retro
 2.00000	halo similar
 2.00000	sabor amargo
 2.00000	comida delicioso
@@ -6121,6 +6145,7 @@ C-VALUE
 2.00000	your eyes
 2.00000	alimento blando
 2.00000	norteamericano mayor
+2.00000	f
 2.00000	núcleo
 2.00000	cabeza erecto
 2.00000	saliva espeso
@@ -6136,6 +6161,7 @@ C-VALUE
 2.00000	parte transparente
 2.00000	parche blanco
 2.00000	vista mejora
+2.00000	red
 2.00000	espasmo crónico
 2.00000	método imagenológico
 2.00000	catarata infantil
@@ -6191,15 +6217,19 @@ C-VALUE
 2.00000	neurofibromatosis tipo
 2.00000	complejo iv
 2.00000	efecto prominente
+2.00000	tomo
 2.00000	tinte especial
 2.00000	infección ligero
 2.00000	afección diferente
 2.00000	paciente cierto
 2.00000	estudio anterior
+2.00000	pio
 2.00000	pilopine hs
 2.00000	opacificación
 2.00000	tipo ictericia
+2.00000	iluminación
 2.00000	lesión retinal
+2.00000	tensión arterial
 2.00000	borde filudos
 2.00000	tiempo duro
 2.00000	informe preliminar
@@ -6209,6 +6239,7 @@ C-VALUE
 2.00000	forma repetitivo
 2.00000	recuperación total
 2.00000	pedazo pequeño
+2.00000	etapa i
 2.00000	incomodidad
 2.00000	etapa v
 2.00000	músculo ciliar
@@ -6457,6 +6488,7 @@ C-VALUE
 2.00000	distancia igual
 2.00000	anormalidad neuroendocrinas
 2.00000	envase original
+2.00000	cloro
 2.00000	médula óseo
 2.00000	glándula ceroso
 2.00000	torrente sanguíneo
@@ -6470,16 +6502,17 @@ C-VALUE
 2.00000	ácido sulfúrico
 2.00000	lagrimeo reflejo
 2.00000	saco lagrimal
-2.00000	copia
 2.00000	enfermedad complejo
 2.00000	plástico resistente
 2.00000	dolor persistente
 2.00000	encefalomiopatías mitocóndricas
 2.00000	acidez bajo
 2.00000	diagnóstico rápido
+2.00000	lejía
 2.00000	síntoma sexual
 2.00000	travoprost oftálmico
 2.00000	técnica quirúrgico
+2.00000	vitamina d
 2.00000	ataque infrecuente
 2.00000	cambio neurológico
 2.00000	tuberculosis micobacteriana
@@ -6487,6 +6520,7 @@ C-VALUE
 2.00000	síntoma significativo
 2.00000	examen retinal
 2.00000	capa transparente
+2.00000	ph
 2.00000	lugar público
 2.00000	lasik fácil
 2.00000	ecografía abdominal
@@ -6520,6 +6554,7 @@ C-VALUE
 2.00000	cuidado ocular
 2.00000	individuo saludable
 2.00000	sexo
+2.00000	acetamida
 2.00000	decisión importante
 2.00000	taza
 2.00000	manera correcto
@@ -6603,6 +6638,7 @@ C-VALUE
 2.00000	ensayo aleatorio
 2.00000	artritis posinfeccioso
 2.00000	dolor importante
+2.00000	pasto
 2.00000	parte visible
 2.00000	hiperrespuesta bronquial
 2.00000	alicate
@@ -6622,17 +6658,7 @@ C-VALUE
 2.00000	necrosis
 2.00000	remedio
 2.00000	causa hereditario
-1.75000	situ
-1.75000	estación
-1.71429	foto
-1.61538	eficiencia
 1.50000	chlamydia
-1.18863	f
-1.17639	s
-1.09615	red
-1.08665	n
-1.05385	v
-1.03846	lag
 1.00000	escriba
 1.00000	participación
 1.00000	compuesto
@@ -6656,6 +6682,7 @@ C-VALUE
 1.00000	gripe
 1.00000	sotalol
 1.00000	operacíon
+1.00000	rico
 1.00000	sien
 1.00000	predisposición
 1.00000	sombrero
@@ -6664,7 +6691,9 @@ C-VALUE
 1.00000	succionarlo
 1.00000	progenitor
 1.00000	clamidiosis
+1.00000	hepa
 1.00000	codeína
+1.00000	k
 1.00000	centavo
 1.00000	serrucho
 1.00000	ideal
@@ -6697,7 +6726,9 @@ C-VALUE
 1.00000	recipiente
 1.00000	internet
 1.00000	quite
+1.00000	gafa
 1.00000	bizquera
+1.00000	sport
 1.00000	usuario
 1.00000	interpretación
 1.00000	crioplexia
@@ -6711,6 +6742,7 @@ C-VALUE
 1.00000	relajación
 1.00000	epiléptico
 1.00000	caloría
+1.00000	pieza
 1.00000	digestión
 1.00000	enjuague
 1.00000	mandíbula
@@ -6718,6 +6750,7 @@ C-VALUE
 1.00000	abono
 1.00000	pinchazo
 1.00000	excepción
+1.00000	am
 1.00000	cesárea
 1.00000	penfigoideo
 1.00000	tranquilidad
@@ -6726,6 +6759,9 @@ C-VALUE
 1.00000	tristeza
 1.00000	cable
 1.00000	larga
+1.00000	té
+1.00000	pico
+1.00000	corta
 1.00000	medianoche
 1.00000	sábana
 1.00000	allegra
@@ -6735,19 +6771,21 @@ C-VALUE
 1.00000	acetiltriptamina
 1.00000	sonograma
 1.00000	fotoreceptor
+1.00000	patio
 1.00000	angiofluoresceinografía
 1.00000	exotropía
 1.00000	miedo
 1.00000	neurodegeneración
 1.00000	alfombra
-1.00000	compresión
 1.00000	columna
 1.00000	campylobacter
 1.00000	coenzima
 1.00000	motocicleta
 1.00000	sobrepeso
+1.00000	europa
 1.00000	medlineplus
 1.00000	pdf
+1.00000	olla
 1.00000	fundente
 1.00000	símbolo
 1.00000	avión
@@ -6758,6 +6796,7 @@ C-VALUE
 1.00000	clima
 1.00000	congelación
 1.00000	contractura
+1.00000	puesta
 1.00000	queratocono
 1.00000	farsightedness
 1.00000	lenguaje
@@ -6768,6 +6807,7 @@ C-VALUE
 1.00000	calibración
 1.00000	inmunodepresión
 1.00000	baclofen
+1.00000	lana
 1.00000	metaboliza
 1.00000	aliado
 1.00000	impresión
@@ -6784,6 +6824,7 @@ C-VALUE
 1.00000	escopolamina
 1.00000	agresividad
 1.00000	plaquenil
+1.00000	encéfalo
 1.00000	superioridad
 1.00000	refrigerador
 1.00000	cuadro
@@ -6791,6 +6832,7 @@ C-VALUE
 1.00000	emoción
 1.00000	sayre
 1.00000	babeo
+1.00000	latino
 1.00000	vasopresina
 1.00000	empleo
 1.00000	neovascularización
@@ -6800,9 +6842,11 @@ C-VALUE
 1.00000	metoxitriptamina
 1.00000	nieve
 1.00000	exactitud
+1.00000	rama
 1.00000	betimol
 1.00000	avonex
 1.00000	electrooculografía
+1.00000	ve
 1.00000	tarjeta
 1.00000	ciclopentolato
 1.00000	albornoz
@@ -6811,11 +6855,14 @@ C-VALUE
 1.00000	jardinería
 1.00000	manta
 1.00000	software
+1.00000	inc
 1.00000	aspereza
 1.00000	akarpine
 1.00000	pista
+1.00000	ala
 1.00000	palidez
 1.00000	calendario
+1.00000	erg
 1.00000	aislamiento
 1.00000	serotonina
 1.00000	cetirizina
@@ -6823,10 +6870,12 @@ C-VALUE
 1.00000	esmolol
 1.00000	aparición
 1.00000	ecoencefalograma
-1.00000	primavera
+1.00000	vagina
 1.00000	parvulario
+1.00000	rata
 1.00000	champú
 1.00000	isquemia
+1.00000	grava
 1.00000	tysabri
 1.00000	sorpresa
 1.00000	emg
@@ -6837,6 +6886,7 @@ C-VALUE
 1.00000	electroencefalografía
 1.00000	ciclismo
 1.00000	llaga
+1.00000	mio
 1.00000	condimento
 1.00000	triglicérido
 1.00000	deshumidificador
@@ -6853,6 +6903,7 @@ C-VALUE
 1.00000	gimnasia
 1.00000	epífora
 1.00000	ophthalmologist
+1.00000	p
 1.00000	htm
 1.00000	repente
 1.00000	revista
@@ -6871,6 +6922,7 @@ C-VALUE
 1.00000	tenis
 1.00000	aluminio
 1.00000	maleato
+1.00000	baja
 1.00000	transfusión
 1.00000	gingivitis
 1.00000	esquizofrenia
@@ -6887,13 +6939,12 @@ C-VALUE
 1.00000	palpación
 1.00000	cálculo
 1.00000	your
-1.00000	low
 1.00000	dicho
+1.00000	oración
 1.00000	radiador
 1.00000	tienda
 1.00000	lactante
 1.00000	varicela
-1.00000	md
 1.00000	gonioscopia
 1.00000	conjunctivitis
 1.00000	metabolismo
@@ -6906,6 +6957,7 @@ C-VALUE
 1.00000	laberintitis
 1.00000	uva
 1.00000	soldador
+1.00000	asa
 1.00000	universidad
 1.00000	flojedad
 1.00000	condón
@@ -6924,6 +6976,7 @@ C-VALUE
 1.00000	plátano
 1.00000	ecocardiografía
 1.00000	disolvente
+1.00000	lia
 1.00000	rebif
 1.00000	reviewed
 1.00000	etambutol
@@ -6960,12 +7013,14 @@ C-VALUE
 1.00000	lucentis
 1.00000	ventosa
 1.00000	equivalente
+1.00000	rast
 1.00000	genitales
 1.00000	cuero
 1.00000	shp
 1.00000	interés
 1.00000	bloqueado
 1.00000	laseveridad
+1.00000	aqui
 1.00000	gentamicina
 1.00000	arginina
 1.00000	subexposición
@@ -6983,10 +7038,10 @@ C-VALUE
 1.00000	detector
 1.00000	neoplasia
 1.00000	antígeno
+1.00000	abra
 1.00000	micoplasma
 1.00000	salón
 1.00000	altitud
-1.00000	dra
 1.00000	cuestionario
 1.00000	quinidina
 1.00000	óvulo
@@ -7007,10 +7062,10 @@ C-VALUE
 1.00000	azar
 1.00000	mínima
 1.00000	fnt
-1.00000	astilla
 1.00000	entendimiento
 1.00000	veneno
 1.00000	caballo
+1.00000	tina
 1.00000	apnea
 1.00000	avastin
 1.00000	programs
@@ -7018,6 +7073,7 @@ C-VALUE
 1.00000	versed
 1.00000	queja
 1.00000	candidato
+1.00000	ops
 1.00000	recinto
 1.00000	remisión
 1.00000	veruronio
@@ -7040,6 +7096,7 @@ C-VALUE
 1.00000	puro
 1.00000	hombro
 1.00000	logopedia
+1.00000	org
 1.00000	balompié
 1.00000	eyes
 1.00000	amantadina
@@ -7047,6 +7104,8 @@ C-VALUE
 1.00000	zanaflex
 1.00000	desplazamiento
 1.00000	pluma
+1.00000	info
+1.00000	norma
 1.00000	farmacia
 1.00000	relativo
 1.00000	taquicardia
@@ -7055,10 +7114,14 @@ C-VALUE
 1.00000	electroretinografía
 1.00000	tramo
 1.00000	barra
+1.00000	tí
+1.00000	lava
 1.00000	menopausia
 1.00000	metanol
 1.00000	resfrío
+1.00000	mor
 1.00000	corgard
+1.00000	olor
 1.00000	comodidad
 1.00000	lapicero
 1.00000	zolpidem
@@ -7067,9 +7130,9 @@ C-VALUE
 1.00000	nadolol
 1.00000	vhs
 1.00000	videos
+1.00000	contagio
 1.00000	respaldo
 1.00000	novedad
-1.00000	ansi
 1.00000	moneda
 1.00000	traducción
 1.00000	progesterona
@@ -7161,12 +7224,11 @@ C-VALUE
 1.00000	dmae
 1.00000	cañería
 1.00000	estradiol
-1.00000	tomo
 1.00000	jarabe
 1.00000	sindromes
 1.00000	sufra
 1.00000	excitabilidad
-1.00000	iluminación
+1.00000	u
 1.00000	bendición
 1.00000	sucinilcolina
 1.00000	tinitus
@@ -7174,6 +7236,7 @@ C-VALUE
 1.00000	verdura
 1.00000	recaída
 1.00000	xeroftalmia
+1.00000	ma
 1.00000	resumen
 1.00000	desfiguramiento
 1.00000	manju
@@ -7188,6 +7251,7 @@ C-VALUE
 1.00000	ronquera
 1.00000	anticonvulsivo
 1.00000	cocaína
+1.00000	uretra
 1.00000	verimed
 1.00000	utensilio
 1.00000	marioneta
@@ -7201,6 +7265,7 @@ C-VALUE
 1.00000	espiral
 1.00000	apendicitis
 1.00000	palillo
+1.00000	patía
 1.00000	carteolol
 1.00000	junta
 1.00000	snapshot
@@ -7240,12 +7305,14 @@ C-VALUE
 1.00000	tizanidina
 1.00000	permiso
 1.00000	marisco
+1.00000	caroteno
 1.00000	tinnitus
 1.00000	octubre
 1.00000	breviblic
 1.00000	optometrist
 1.00000	cortisol
 1.00000	vinilo
+1.00000	coma
 1.00000	polo
 1.00000	dmard
 1.00000	obstáculo
@@ -7283,10 +7350,10 @@ C-VALUE
 1.00000	equimosis
 1.00000	entorno
 1.00000	rostro
-1.00000	cloro
 1.00000	medicación
 1.00000	testículo
 1.00000	ciento
+1.00000	uvea
 1.00000	natalizumab
 1.00000	cargo
 1.00000	hemograma
@@ -7297,9 +7364,10 @@ C-VALUE
 1.00000	pinza
 1.00000	enucleación
 1.00000	carrillo
-1.00000	lejía
 1.00000	defensa
+1.00000	aro
 1.00000	arenilla
+1.00000	pm
 1.00000	agarre
 1.00000	neurona
 1.00000	eyesmart
@@ -7321,16 +7389,18 @@ C-VALUE
 1.00000	gana
 1.00000	anisocoria
 1.00000	foco
-1.00000	acetamida
+1.00000	apt
 1.00000	vello
 1.00000	impreso
 1.00000	maxilar
 1.00000	belcho
+1.00000	tac
 1.00000	intercomunicador
 1.00000	movilización
 1.00000	dilantin
 1.00000	ranibizumab
 1.00000	trandate
+1.00000	g
 1.00000	hábito
 1.00000	martilleo
 1.00000	cosopt
@@ -7358,7 +7428,6 @@ C-VALUE
 1.00000	relleno
 1.00000	ortosis
 1.00000	histiocitosis
-1.00000	pasto
 1.00000	borrosidad
 1.00000	sauzgatillo
 1.00000	polarografía
@@ -7367,74 +7436,5 @@ C-VALUE
 1.00000	involución
 1.00000	efectividad
 1.00000	fosfocreatina
-0.80000	pico
-0.66667	latino
-0.56250	ala
-0.55556	europa
-0.54545	hepa
-0.54167	rico
-0.52174	jet
-0.50000	specialist
-0.35106	norma
-0.33333	ph
-0.23643	am
-0.22222	rama
-0.18182	gafa
-0.17346	p
-0.13636	té
-0.13267	g
-0.12500	olor
-0.12451	l
-0.00000	mel
-0.00000	corta
-0.00000	patio
-0.00000	olla
-0.00000	lana
-0.00000	encéfalo
-0.00000	vagina
-0.00000	grava
-0.00000	tacto suave
-0.00000	baja
 0.00000	familiar del enfermedad
-0.00000	aqui
-0.00000	gen p
-0.00000	lava
-0.00000	contagio
-0.00000	tensión arterial
-0.00000	uretra
-0.00000	caroteno
 0.00000	trachomatis
-0.00000	uvea
-0.00000	vitamina d
-0.00000	pm
--0.08333	oración
--0.16667	pieza
--0.21429	pio
--0.22222	ops
--0.26316	inc
--0.39286	asa
--0.41667	puesta
--0.42308	ve
--0.44444	aro
--0.50000	rast
--0.50000	org
--0.58824	k
--0.66667	sport
--0.69492	erg
--0.69565	mio
--0.73469	tina
--0.78571	mor
--0.82938	u
--0.87500	abra
--0.92683	tí
--0.92784	rata
--0.93000	ma
--1.00000	apt
--1.09375	info
--1.12500	lia
--1.20000	etapa i
--1.36957	patía
--1.45455	tac
--1.50000	pulso
--1.64103	coma
--2.77273	gene

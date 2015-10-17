@@ -107,7 +107,8 @@ def calc_cvalue(sorted_phrase_dict, min_cvalue):
             cvalue_dict[phrs_a] = cvalue
             for num_words in reversed(range(1, max_num_words)):
                 for phrs_b, freq_b in sorted_phrase_dict[num_words]:
-                    if phrs_b in phrs_a:
+                    if set(phrs_b.split()).issubset(set(phrs_a.split())) and \
+                            phrs_b in phrs_a:
                         if phrs_b not in triple_dict.keys():  # create triple
                             triple_dict[phrs_b] = (freq_b, freq_a, 1)
                         else:                                 # update triple
@@ -132,7 +133,8 @@ def calc_cvalue(sorted_phrase_dict, min_cvalue):
             if cvalue >= min_cvalue:
                 for num_words in reversed(range(1, num_words_counter)):
                     for phrs_b, freq_b in sorted_phrase_dict[num_words]:
-                        if phrs_b in phrs_a:
+                        if set(phrs_b.split()).issubset(set(phrs_a.split())) \
+                                and phrs_b in phrs_a:
                             if phrs_b not in triple_dict.keys():  # make triple
                                 triple_dict[phrs_b] = (freq_b, freq_a, 1)
                             else:                                 # updt triple
@@ -265,6 +267,7 @@ def main(domain_corpus, pos_pattern, min_freq, min_cvalue):
     cvalue_output = calc_cvalue(sorted_chunks, min_cvalue)
 
     return cvalue_output
+    #return chunks_freqs
 
 
 if __name__ == '__main__':
@@ -279,12 +282,14 @@ if __name__ == '__main__':
     candidates = main(domain_corpus, PATTERN, MIN_FREQ, MIN_CVAL)
     sorted_candidates = [(cand, score) for cand, score in sorted(
         candidates.items(), key=lambda x: x[1], reverse=True)]
-    #with open('cvalue-candidates.txt', 'w') as f:
-    #    new_cands = []
-    #    for c in sorted_candidates:
-    #        newc = '%.5f\t%s' % (c[1], c[0])
-    #        new_cands.append(newc)
-    #    f.write('\n'.join(new_cands).encode('utf-8'))
+
+    with open('cvalue.txt', 'w') as f:
+        new_cands = []
+        for c in sorted_candidates:
+            newc = '%.5f\t%s' % (c[1], c[0])
+            new_cands.append(newc)
+        f.write('\n'.join(new_cands).encode('utf-8'))
+
     sorted_candidates = [cand for cand, score in sorted_candidates]
     print '\nC-VALUE'
     print '========'
@@ -309,8 +314,18 @@ if __name__ == '__main__':
         cvalue_top, domain_corpus, ['NC', 'AQ', 'VM'], 5)
     ncvalue_output = calc_ncvalue(
         candidates, domain_corpus, context_words, ['NC', 'AQ', 'VM'], 5)
-    sorted_ncvalue = [cand for cand, score in sorted(
+    sorted_ncvalue = [(cand, score) for cand, score in sorted(
         ncvalue_output.items(), key=lambda x: x[1], reverse=True)]
+
+    with open('ncvalue.txt', 'w') as f:
+        new_cands = []
+        for c in sorted_ncvalue:
+            newc = '%.5f\t%s' % (c[1], c[0])
+            new_cands.append(newc)
+        f.write('\n'.join(new_cands).encode('utf-8'))
+
+    sorted_ncvalue = [cand for cand, score in sorted_ncvalue]
+
     precision, recall = \
         evaluation.precision_recall(terms, sorted_ncvalue)
     print '\n\nNC-VALUE'
